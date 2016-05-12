@@ -1,0 +1,4 @@
+<% if question.has_labels? %><label for="response"><%
+  unless question.suffix_label.present? %><%= question.label %><% end %><% end
+%><%= text_field_tag('response', prefill_value_for(question)) %><%
+  if question.has_labels? %><%= question.suffix_label %></label><% end %>

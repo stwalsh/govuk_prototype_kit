@@ -1,0 +1,271 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-stockholm",
+      "title": "British Embassy Stockholm",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-03-13T10:32:51.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-stockholm",
+      "details": {
+        "slug": "british-embassy-stockholm"
+      },
+      "analytics_identifier": "WO63",
+      "offices": {
+        "main": {
+          "title": "British Embassy Stockholm",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-stockholm/office/british-embassy",
+          "details": {
+            "email": "Stockholm@fco.gov.uk ",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<p>Monday to Friday, 9am to 5pm</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Wednesday 6 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Thursday 5 May</li>\n  <li>Friday 27 May</li>\n  <li>Monday 30 May</li>\n  <li>Monday 6 June</li>\n  <li>Friday 24 June</li>\n  <li>Monday 29 August</li>\n  <li>Friday 4 November</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Skarpögatan 6-8\r\nBox 27819",
+              "postal-code": "115 93",
+              "locality": "Stockholm",
+              "region": "",
+              "country-name": "Sweden"
+            },
+            "label": {
+              "value": "Skarpögatan 6-8\r\nBox 27819\n115 93 Stockholm\nSweden"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+46 (0)8 671 30 00"
+            },
+            {
+              "label": "Fax",
+              "number": "+46 (0)8 662 99 89"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "British Embassy Stockholm Consular Section",
+            "format": "World Office",
+            "updated_at": "2014-09-23T11:12:12.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-stockholm/office/british-embassy-stockholm-consular-office",
+            "details": {
+              "email": "Britsinsweden@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><p>The consular team try to help British nationals in a wide range of situations.See the full <a href=\"/government/world/organisations/british-embassy-stockholm#our-services\">list</a> of how we can help. Most information about life in Sweden is available on this website, but if you are a British national in need of consular assistance please call  us on 08-671 3000 Monday-Friday or send an email to the above address. </p>\n\n<h2 id=\"visits-to-the-consular-section\">Visits to the Consular Section</h2>\n<p>The consular section is open for visits by appointment only.</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Wednesday 6 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Thursday 5 May</li>\n  <li>Friday 27 May</li>\n  <li>Monday 30 May</li>\n  <li>Monday 6 June</li>\n  <li>Friday 24 June</li>\n  <li>Monday 29 August</li>\n  <li>Friday 4 November</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n</div>",
+              "type": "Embassy"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Address: Skarpögatan 6-8\r\nBox 27819",
+                "postal-code": "115 27 Stockholm",
+                "locality": "",
+                "region": "",
+                "country-name": "Sweden"
+              },
+              "label": {
+                "value": "Address: Skarpögatan 6-8\r\nBox 27819\n115 27 Stockholm \nSweden"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Consular telephone enquiries: ",
+                "number": "+46 (0) 8 671 30 00 "
+              },
+              {
+                "label": "Fax:",
+                "number": "+46 (0) 8 661 97 66"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Registrations of Marriage and Civil Partnerships",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Births and Deaths registration service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Notarial services",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Issue certificate of no impediment",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Citizenship Ceremony service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Lost or Stolen Passports",
+                "type": "Assistance Services"
+              }
+            ]
+          },
+          {
+            "title": "Visa Enquiries",
+            "format": "World Office",
+            "updated_at": "2014-09-30T14:38:53.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-stockholm/office/visa-enquiries",
+            "details": {
+              "email": "All enquiries via the UK Visas website at www.gov.uk/visas-immigration",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<p>Monday to Friday, 9am to 5pm</p>\n\n<h3 id=\"consular-section\">Consular section</h3>\n<p>Open for visits by appointment only. You can book an appointment by e-mailing us at <a href=\"mailto:appointments.stockholm@fco.gov.uk\">appointments.stockholm@fco.gov.uk</a>.</p>\n\n<h3 id=\"visas\">Visas</h3>\n<p>By appointment only - <a rel=\"external\" href=\"http://www.ukba.homeoffice.gov.uk/countries/sweden/applying/?langname=UK%20English\" title=\"UK Border Agency\">apply online</a> </p>\n\n<p>Visa enquiries please telephone +46 (0) 85 250 7051</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Wednesday 6 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Thursday 5 May</li>\n  <li>Friday 27 May</li>\n  <li>Monday 30 May</li>\n  <li>Monday 6 June</li>\n  <li>Friday 24 June</li>\n  <li>Monday 29 August</li>\n  <li>Friday 4 November</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December </li>\n</ul>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "",
+                "postal-code": "",
+                "locality": "",
+                "region": "",
+                "country-name": ""
+              },
+              "label": {
+                "value": ""
+              }
+            },
+            "contact_numbers": [
+
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-sweden",
+      "title": "UK Trade & Investment Sweden",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-17T09:09:40.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-sweden",
+      "details": {
+        "slug": "uk-trade-investment-sweden"
+      },
+      "analytics_identifier": "WO300",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Sweden",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-sweden/office/uk-trade-investment-sweden",
+          "details": {
+            "email": "",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"contacts\">Contacts</h2>\n\n<h2 id=\"management\">Management</h2>\n\n<ul>\n  <li>\n<b>Jenny Gardner - Director</b>\n    <ul>\n      <li>Head of UKTI Sweden</li>\n      <li>Email: <a href=\"mailto:jenny.gardner@mobile.ukti.gov.uk\">jenny.gardner@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Charlott M Blomström – Investment Manager</b>\n    <ul>\n      <li>Responsible for UKTI Sweden’s Investment Team</li>\n      <li>Email: <a href=\"mailto:charlott.michaelsen-blomstrom@mobile.ukti.gov.uk\">charlott.michaelsen-blomstrom@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Steve Angus – Trade Manager</b>\n    <ul>\n      <li>Responsible for UKTI Sweden’s Trade Team</li>\n      <li>Email: <a href=\"mailto:steve.angus@mobile.ukti.gov.uk\">steve.angus@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n\n<h2 id=\"investment\">Investment</h2>\n\n<ul>\n  <li>\n<b>Magnus Almén – Senior Investment Advisor</b> (Parental leave)\n    <ul>\n      <li>Sectors: ICT, Clean Tech, Renewables, Retail, Creative Industries</li>\n      <li>Email: <a href=\"mailto:magnus.almen@mobile.ukti.gov.uk\">magnus.almen@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Björn Axelsson –Senior Investment Advisor</b>\n    <ul>\n      <li>Sectors: All </li>\n      <li>Email: <a href=\"mailto:bjorn.axelsson@mobile.ukti.gov.uk\">bjorn.axelsson@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n\n<h2 id=\"trade\">Trade</h2>\n\n<ul>\n  <li>\n<b>Sabine Kauer – Senior Trade Advisor</b>\n    <ul>\n      <li>Sectors: Construction</li>\n      <li>Email: <a href=\"mailto:sabine.kauer@mobile.ukti.gov.uk\">sabine.kauer@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Alan Goodliffe – Senior Trade Advisor</b>\n    <ul>\n      <li>Sectors: Road &amp; Rail, Infrastructure</li>\n      <li>Email: <a href=\"mailto:alan.goodliffe@mobile.ukti.gov.uk\">alan.goodliffe@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Daniel Nutley – Senior Trade Advisor</b>\n    <ul>\n      <li>Sectors: Energy, Professional and Business Services</li>\n      <li>Email: <a href=\"mailto:daniel.nutley@mobile.ukti.gov.uk\">daniel.nutley@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Negar Sabaghzadeh - Trade Advisor</b>\n    <ul>\n      <li>Sectors: Consumer Goods</li>\n      <li>Email: <a href=\"mailto:negar.sabaghzadeh@mobile.ukti.gov.uk\">negar.sabaghzadeh@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Lisen Stenberg - Trade Advisor</b>\n    <ul>\n      <li>Sectors: Consumer Goods</li>\n      <li>Email: <a href=\"mailto:lisen.stenberg@mobile.ukti.gov.uk\">lisen.stenberg@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Daniel Taylor - Trade Advisor</b>\n    <ul>\n      <li>Sectors: Life Sciences &amp; Medtech</li>\n      <li>Email: <a href=\"mailto:daniel.taylor@mobile.ukti.gov.uk\">daniel.taylor@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n<p></p>\n<ul>\n  <li>\n<b>Andrew Wynyard - Trade Advisor</b>\n    <ul>\n      <li>Sectors: Cyber Security &amp; ICT</li>\n      <li>Email: <a href=\"mailto:andrew.wynyard@mobile.ukti.gov.uk\">andrew.wynyard@mobile.ukti.gov.uk</a>\n</li>\n    </ul>\n  </li>\n</ul>\n</div>",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "Skarpögatan 6-8\r\nBox 27819",
+              "postal-code": "115 93",
+              "locality": "Stockholm",
+              "region": "",
+              "country-name": "Sweden"
+            },
+            "label": {
+              "value": "British Embassy\nSkarpögatan 6-8\r\nBox 27819\n115 93 Stockholm\nSweden"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries ",
+              "number": "+46 (0) 8 671 3000"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-science-innovation-network-in-sweden",
+      "title": "UK Science & Innovation Network in Sweden",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-09-18T13:01:00.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-science-innovation-network-in-sweden",
+      "details": {
+        "slug": "uk-science-innovation-network-in-sweden"
+      },
+      "analytics_identifier": "WO399",
+      "offices": {
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for Business, Innovation & Skills",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+          "details": {
+            "acronym": "BIS"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 3,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/sweden/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

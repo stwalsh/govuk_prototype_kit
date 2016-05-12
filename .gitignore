@@ -1,7 +1,15 @@
-.sass-cache
+# Vim
+*~
+
+# Mac
 .DS_Store
-.start.pid
-public
-govuk_modules
-node_modules/*
-.tmuxp.*
+
+# Rails
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+
+# SimplCov
+coverage

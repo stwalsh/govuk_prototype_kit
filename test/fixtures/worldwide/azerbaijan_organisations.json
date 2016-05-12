@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-baku",
+      "title": "British Embassy Baku",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-05-06T07:47:53.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-baku",
+      "details": {
+        "slug": "british-embassy-baku"
+      },
+      "analytics_identifier": "WO111",
+      "offices": {
+        "main": {
+          "title": "British Embassy Baku",
+          "format": "World Office",
+          "updated_at": "2013-04-28T11:13:23.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-baku/office/british-embassy-baku",
+          "details": {
+            "email": "generalenquiries.baku@fco.gov.uk",
+            "description": "Office hours:\r\nMonday to Friday\r\n5am - 1pm  GMT\r\n9am - 5pm Local Time",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h3 id=\"public-holidays-2016\">PUBLIC HOLIDAYS 2016</h3>\n\n<p>PUBLIC HOLIDAYS 2016</p>\n\n<ul>\n  <li>1 January               \tNew Year </li>\n  <li>4 January              \tNew Year</li>\n  <li>21 March               \tNovruz </li>\n  <li>22 March              \tNovruz  </li>\n  <li>25 March\t             \tGood Friday </li>\n  <li>28 March                   \tEaster Monday </li>\n  <li>30 May                  \tAzerbaijan Republic Day </li>\n  <li>7 July          \t\tRamadan </li>\n  <li>8 July         \t\tRamadan </li>\n  <li>12 September              Qurban </li>\n  <li>13 September              Qurban  </li>\n  <li>26 December         \tBoxing Day </li>\n  <li>27 December \t\tChristmas Day </li>\n  <li>30 December         \tWorld Azerbaijanis Solidarity Day </li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "45 Khagani Street\r\nAZ1010",
+              "postal-code": "",
+              "locality": "Baku ",
+              "region": "",
+              "country-name": "Azerbaijan"
+            },
+            "label": {
+              "value": "45 Khagani Street\r\nAZ1010\nBaku \nAzerbaijan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+ 994 (12) 4377878 "
+            },
+            {
+              "label": "Fax",
+              "number": "+ 994 (12) 4977434"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-azerbaijan",
+      "title": "UK Trade & Investment Azerbaijan",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-24T16:42:58.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-azerbaijan",
+      "details": {
+        "slug": "uk-trade-investment-azerbaijan"
+      },
+      "analytics_identifier": "WO266",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Azerbaijan",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-azerbaijan/office/uk-trade-investment-azerbaijan",
+          "details": {
+            "email": "UKTI.Azerbaijan@fco.gov.uk ",
+            "description": "Office hours:\r\nMonday to Friday, 9am to 5pm local time (5am to 1pm GMT)",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Baku",
+              "street-address": "45 Khagani Street",
+              "postal-code": "AZ1010",
+              "locality": "",
+              "region": "",
+              "country-name": "Azerbaijan"
+            },
+            "label": {
+              "value": "British Embassy Baku\n45 Khagani Street\nAZ1010\nAzerbaijan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries",
+              "number": "+ 994 (12) 4377878"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/azerbaijan/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+---
+:what_passport_do_you_have?:
+- afghanistan
+- andorra
+- anguilla
+- austria
+- china
+- croatia
+- israel
+- kuwait
+- oman
+- saint-barthelemy
+- stateless-or-refugee
+- st-martin
+- syria
+- taiwan
+- turkey
+- venezuela
+:israeli_document_type?:
+- full-passport
+- provisional-passport
+:purpose_of_visit?:
+- tourism
+- work
+- study
+- transit
+- family
+- marriage
+- school
+- medical
+- diplomatic
+:passing_through_uk_border_control?:
+- 'yes'
+- 'no'
+:staying_for_how_long?:
+- six_months_or_less
+- longer_than_six_months

@@ -1,53 +1,24 @@
-# Contribution guidelines
+## Git workflow ##
 
-We really like contributions and bug reports, in fact the project wouldn't have got to this stage without them.
-We do have a few guidelines to bear in mind.
+- Pull requests must contain a succinct, clear summary of what the user need is driving this feature change.
+- Follow our [Git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
+- Make a feature branch
+- Ensure your branch contains logical atomic commits before sending a pull request - follow our [Git styleguide](https://github.com/alphagov/styleguides/blob/master/git.md)
+- Pull requests are automatically integration tested, where applicable using [Travis CI](https://travis-ci.org/), which will report back on whether the tests still pass on your branch
+- You *may* rebase your branch after feedback if it's to include relevant updates from the master branch. We prefer a rebase here to a merge commit as we prefer a clean and straight history on master with discrete merge commits for features
 
-## Community
+## Copy ##
 
-We have two Slack channels for the Prototype kit. You'll need a government email address to join them.
+- Follow the [style guide](https://www.gov.uk/designprinciples/styleguide)
+- URLs should use hyphens, not underscores
 
-* [Slack channel for users of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit/)
-* [Slack channel for developers of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit-dev/)
+## Code ##
 
-## Raising bugs
+- Must be readable with meaningful naming, eg no short hand single character variable names
+- Follow our [Ruby style guide](https://github.com/alphagov/styleguides/blob/master/ruby.md)
 
-When raising bugs please explain the issue in good detail and provide a guide to how to replicate it.
-When describing the bug it's useful to follow the format:
+## Testing ##
 
-- what you did
-- what you expected to happen
-- what happened
+Write tests.
 
-## Suggesting features
-
-Please raise feature requests as issues before contributing any code.
-
-This ensures they are discussed properly before any time is spent on them.
-
-## GOV.UK Elements
-
-The project contains code taken from the [GOV.UK Elements](https://github.com/alphagov/govuk_elements/) project.
-Please check that any issues related to that code are raised with that project, not this one.
-
-## Contributing code
-
-### Indentation and whitespace
-
-2-space, soft-tabs only please. No trailing whitespace.
-
-### Versioning
-
-Follow the guidelines on [semver.org](http://semver.org/) for assigning version
-numbers.
-
-Versions should only be changed in a commit of their own, in a pull request of
-their own. This alerts team members to the new version and allows for
-last-minute scrutiny before the new version is released. Also, by raising a
-separate pull request, we avoid version number conflicts between feature
-branches.
-
-### Commit hygiene
-
-Please see our [git style guide](https://github.com/alphagov/styleguides/blob/master/git.md)
-which describes how we prefer git history and commit messages to read.
+Make sure the [regression tests](doc/regression-tests.md) are passing.

@@ -1,0 +1,142 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-algiers",
+      "title": "British Embassy Algiers",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-17T14:48:53.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-algiers",
+      "details": {
+        "slug": "british-embassy-algiers"
+      },
+      "analytics_identifier": "WO77",
+      "offices": {
+        "main": {
+          "title": "British Embassy Algiers, main contact",
+          "format": "World Office",
+          "updated_at": "2013-04-02T05:36:04.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-algiers/office/british-embassy-algiers-main-contact",
+          "details": {
+            "email": "BritishEmbassy.Algiers@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"office-hours\">Office hours:</h2>\n\n<p>Sunday to Thursday, 7am to 2:30pm (GMT)\nSunday to Thursday, 8am to 3:30pm (Local Time)</p>\n\n<p>The Consular Section at the British Embassy, Algiers is open to public on Sunday- Monday &amp; Thursday from 9:00 am to 12:20 am. Tuesday and Wednesday is  CLOSED.</p>\n\n<p>Consular telephone inquiries are received from 13:00 -15.30\nFor British citizens with genuine emergencies outside of our regular working hours, please call the Global Response Centre in the UK: +213 (0) 770 08 50 68</p>\n\n<h2 id=\"embassy-public-holidays-2016\">Embassy Public Holidays 2016</h2>\n\n<p>(Dates marked with * are tentative, precise dates to be confirmed nearer the time)</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>Holiday</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sunday 03 January</td>\n      <td>New year’s Day (in lieu of 1st Jan)</td>\n    </tr>\n    <tr>\n      <td>Sunday 27 March</td>\n      <td>Easter Sunday</td>\n    </tr>\n    <tr>\n      <td>Monday 28 March</td>\n      <td>Easter Monday</td>\n    </tr>\n    <tr>\n      <td>Sunday, 1 May</td>\n      <td>International Workers’ day</td>\n    </tr>\n    <tr>\n      <td>Tuesday, 05 July</td>\n      <td>Independence Day</td>\n    </tr>\n    <tr>\n      <td>* Wednesday, 06 July</td>\n      <td>* Eid El-Fitr</td>\n    </tr>\n    <tr>\n      <td>* Wednesday, 06 July</td>\n      <td>* Eid El-Fitr</td>\n    </tr>\n    <tr>\n      <td>*Thursday, 07 July</td>\n      <td>* Eid El-Fitr</td>\n    </tr>\n    <tr>\n      <td>*Monday, 12 September</td>\n      <td>* Eid El-Adha</td>\n    </tr>\n    <tr>\n      <td>*Tuesday, 13 September</td>\n      <td>* Eid El-Adha</td>\n    </tr>\n    <tr>\n      <td>*Monday, 03 October</td>\n      <td>*Muharram</td>\n    </tr>\n    <tr>\n      <td>Sunday, 1st November</td>\n      <td>All Saints Day/ Anniversary of the Revolution</td>\n    </tr>\n    <tr>\n      <td>Monday, 12 December</td>\n      <td>Prophet’s Birthday</td>\n    </tr>\n    <tr>\n      <td>Sunday 25 December</td>\n      <td>Christmas Day</td>\n    </tr>\n    <tr>\n      <td>Monday, 26 December</td>\n      <td>Boxing Day</td>\n    </tr>\n  </tbody>\n</table>\n\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "Ambassade Britannique, ",
+              "street-address": "3 Chemin Capitaine Hocine Slimane (ex Chemin des Glycines),\r\nHydra",
+              "postal-code": "",
+              "locality": "Algiers",
+              "region": "Algiers",
+              "country-name": "Algeria"
+            },
+            "label": {
+              "value": "Ambassade Britannique, \n3 Chemin Capitaine Hocine Slimane (ex Chemin des Glycines),\r\nHydra\nAlgiers\nAlgiers\nAlgeria"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+213 (0) 770 085 000"
+            },
+            {
+              "label": "Fax number",
+              "number": "+213 (0) 770 08 50 99"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-algeria",
+      "title": "UK Trade & Investment Algeria",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-24T14:24:44.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-algeria",
+      "details": {
+        "slug": "uk-trade-investment-algeria"
+      },
+      "analytics_identifier": "WO270",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Algeria",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-algeria/office/uk-trade-investment-algeria",
+          "details": {
+            "email": "UKTI.Algeria@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "3 Chemin Capitaine Hocine Slimane (ex Chemin des Glycines)",
+              "postal-code": "",
+              "locality": "Hydra",
+              "region": "Algiers",
+              "country-name": "Algeria"
+            },
+            "label": {
+              "value": "British Embassy\n3 Chemin Capitaine Hocine Slimane (ex Chemin des Glycines)\nHydra\nAlgiers\nAlgeria"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries",
+              "number": "+ 213 (0) 770 085 000"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/algeria/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

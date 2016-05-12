@@ -1,0 +1,169 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-bratislava",
+      "title": "British Embassy Bratislava",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-03-06T10:12:52.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-bratislava",
+      "details": {
+        "slug": "british-embassy-bratislava"
+      },
+      "analytics_identifier": "WO60",
+      "offices": {
+        "main": {
+          "title": "British Embassy Bratislava",
+          "format": "World Office",
+          "updated_at": "2013-08-02T12:39:05.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-bratislava/office/british-embassy",
+          "details": {
+            "email": "britishembassybratislava@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<ul>\n  <li>Monday to Thursday, 8:30am to 5pm</li>\n  <li>Friday, 8:30am to 2pm</li>\n</ul>\n\n<h3 id=\"consular-section\">Consular section</h3>\n<p>Open on Monday to Friday, between 9am to midday, except public holidays.</p>\n\n<p>In a consular emergency, such as hospitalisation, death or imprisonment of a British national, outside of office hours, please call +421 2 5998 2000.</p>\n\n<h3 id=\"embassy-contacts\">Embassy contacts</h3>\n<ul>\n  <li>consular section - telephone: +421 2 5998 2253; email: bratislava.consularenquiries@fco.gov.uk</li>\n  <li>political/press and public affairs section - telephone: +421 2 5998 2216; email: britishembassybratislava@fco.gov.uk</li>\n  <li>defence section - telephone: +421 2 5998 2261</li>\n  <li>trade and investment section - telephone: +421 2 5998 2000</li>\n</ul>\n\n<h2 id=\"public-holidays\">2016 Public holidays</h2>\n<ul>\n  <li>Friday 1 January</li>\n  <li>Wednesday 6 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Friday 27 May</li>\n  <li>Tuesday 5 July</li>\n  <li>Monday 29 August </li>\n  <li>Thursday 1 September </li>\n  <li>Thursday 15 September</li>\n  <li>Tuesday 1 November </li>\n  <li>Thursday 17 November</li>\n  <li>Friday 23 December</li>\n  <li>Monday 26 December </li>\n  <li>Tuesday 27 December </li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Panská 16",
+              "postal-code": "811 01",
+              "locality": "Bratislava",
+              "region": "",
+              "country-name": "Slovakia"
+            },
+            "label": {
+              "value": "Panská 16\n811 01 Bratislava\nSlovakia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+421 2 5998 20 00"
+            },
+            {
+              "label": "Fax",
+              "number": "+421 2 5998 22 37"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Service of Process",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-slovakia",
+      "title": "UK Trade & Investment Slovakia",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-16T15:44:20.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-slovakia",
+      "details": {
+        "slug": "uk-trade-investment-slovakia"
+      },
+      "analytics_identifier": "WO202",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Slovakia",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:53.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-slovakia/office/uk-trade-investment-slovakia",
+          "details": {
+            "email": "commercial2@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "Panska 16",
+              "postal-code": "811 01 ",
+              "locality": "",
+              "region": "Bratislava",
+              "country-name": "Slovakia"
+            },
+            "label": {
+              "value": "British Embassy\nPanska 16\n811 01  \nSlovakia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+421 2 5998 2000"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/slovakia/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

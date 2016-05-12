@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-bishkek",
+      "title": "British Embassy Bishkek",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-09-06T12:43:21.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-bishkek",
+      "details": {
+        "slug": "british-embassy-bishkek"
+      },
+      "analytics_identifier": "WO255",
+      "offices": {
+        "main": {
+          "title": "British Embassy in the Kyrgyz Republic",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-bishkek/office/british-embassy-in-the-kyrgyz-republic",
+          "details": {
+            "email": "ukin.kyrgyzrepublic@fco.gov.uk ",
+            "description": "Office hours (GMT): \r\nMonday -Friday: 3am-7am and 8am -11:30am\r\n\r\nOffice hours (Local): \r\nMonday - Friday: 9am - 1pm and 2pm - 5:30pm\r\n\r\nFor General Enquiries - UKin.KyrgyzRepublic@fco.gov.uk\r\nVisa enquiries - www.ukvi-international.faq-help.com\r\nConsular enquiries - consular.bishkek@fco.gov.uk",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"making-a-consular-appointment\">Making a consular appointment</h2>\n\n<p>Before contacting our offices with non-urgent enquiries, please read our <a href=\"https://www.gov.uk/government/publications/support-for-british-nationals-abroad-a-guide\">Support for British nationals abroad: a guide</a> to see if the information you need is there. If you still cannot find the information you need, you can contact your nearest Consular team. You can make an appointment for notarial and documentary services at:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://www.consular-appointments.service.gov.uk/fco/#!/british-embassy-bishkek/-/service_list\">Bishkek- please click here to make an appointment</a></li>\n</ul>\n\n<h3 id=\"public-holidays\">2016 Public holidays</h3>\n\n<p>The Embassy will be closed on the following days in 2016:</p>\n\n<ul>\n  <li>1 January - New Year Holiday</li>\n  <li>7 January - Orthodox Christmas</li>\n  <li>8 March - International Women’s Day</li>\n  <li>21 March - Nooruz</li>\n  <li>25 March - Good Friday</li>\n  <li>28 March - Easter Monday</li>\n  <li>30 May - Late May Bank Holiday</li>\n  <li>31 May - Queen’s Birthday </li>\n  <li>July - Orozo Ait</li>\n  <li>29 August - August Bank Holiday</li>\n  <li>31 August - Independence Day </li>\n  <li>September - Kurman Ait </li>\n  <li>26 December – Boxing Day</li>\n  <li>27 December –  Christmas</li>\n</ul>\n\n<p>В 2016 году Посольство будет закрыто по следующим дням:</p>\n\n<ul>\n  <li>1 января\t\t    - Новогодний выходной</li>\n  <li>7 января\t\t    - Православное Рождество</li>\n  <li>8 марта\t\t    - Международный женский день </li>\n  <li>21 марта \t    - Нооруз</li>\n  <li>25 марта\t    - Страстная пятница</li>\n  <li>28 марта\t    - Пасхальный понедельник</li>\n  <li>30 мая\t\t    - Майский банковский выходной</li>\n  <li>31 мая\t\t    - День рождения Королевы</li>\n  <li>июль                 - Орозо Айт</li>\n  <li>29 августа          - Августовский банковский выходной</li>\n  <li>31 августа         - День независимости</li>\n  <li>сентябрь  \t    - Курман Айт</li>\n  <li>26 декабря - День рождественских подарков </li>\n  <li>27 декабря - Рождество</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "21 Erkindik Boulevard\r\nOffice 404",
+              "postal-code": "720040",
+              "locality": "Bishkek",
+              "region": "",
+              "country-name": "Kyrgyzstan"
+            },
+            "label": {
+              "value": "21 Erkindik Boulevard\r\nOffice 404\nBishkek\n720040\nKyrgyzstan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+996 (312) 303637"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/dfid-kyrgyzstan",
+      "title": "DFID Kyrgyzstan",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-10-31T10:32:15.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/dfid-kyrgyzstan",
+      "details": {
+        "slug": "dfid-kyrgyzstan"
+      },
+      "analytics_identifier": "WO225",
+      "offices": {
+        "main": {
+          "title": "DFID Kyrgyzstan",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/dfid-kyrgyzstan/office/dfid-kyrgyzstan",
+          "details": {
+            "email": "enquiry@dfid.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "21 Boulevard Erkindik, Office 404\r\n ",
+              "postal-code": " 720040",
+              "locality": "Bishkek",
+              "region": "",
+              "country-name": "Kyrgyzstan"
+            },
+            "label": {
+              "value": "21 Boulevard Erkindik, Office 404\r\n \nBishkek\n 720040\nKyrgyzstan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Tel:",
+              "number": "+996 (312) 303647"
+            }
+          ],
+          "services": [
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for International Development",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-international-development",
+          "details": {
+            "acronym": "DFID"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/kyrgyzstan/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

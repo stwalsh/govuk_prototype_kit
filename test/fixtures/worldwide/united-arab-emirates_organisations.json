@@ -1,0 +1,383 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-abu-dhabi",
+      "title": "British Embassy Abu Dhabi",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-06-22T11:41:35.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-abu-dhabi",
+      "details": {
+        "slug": "british-embassy-abu-dhabi"
+      },
+      "analytics_identifier": "WO117",
+      "offices": {
+        "main": {
+          "title": "British Embassy Abu Dhabi, main contact",
+          "format": "World Office",
+          "updated_at": "2013-04-11T12:47:38.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-abu-dhabi/office/british-embassy-abu-dhabi-main-contact",
+          "details": {
+            "email": "consular.UAE@fco.gov.uk",
+            "description": "Office Hours: \r\nSunday to Thursday, 7:30am to 2:30pm (Local)\r\nSunday to Thursday, 4:30am to 11:30am (GMT)\r\n\r\nFor all Visa related enquiries:\r\nVisa International Enquiry Service: www.gov.uk/contact-ukvi-outside-uk\r\n\r\nIf you need to visit the British Embassy for a consular issue, you may need to make an appointment. Please check our Notarial and documentary service to see which services will require an appointment to be made in advance of your visit.\r\n\r\n",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>Holiday</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sunday 3rd January</td>\n      <td>New Year’s Day</td>\n    </tr>\n    <tr>\n      <td>Sunday 27th - Monday 28th March</td>\n      <td>Easter</td>\n    </tr>\n    <tr>\n      <td>Thursday 5th May</td>\n      <td>Laylat Al-Meiraj*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 6th - Thursday 7th July</td>\n      <td>Eid Al-Fitr*(2 from 3 days to be decided)</td>\n    </tr>\n    <tr>\n      <td>Sunday 11th - Tuesday 13th September</td>\n      <td>Eid Al-Adha*</td>\n    </tr>\n    <tr>\n      <td>Sunday 2nd October</td>\n      <td>Al-Hijra*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 30th November</td>\n      <td>Commemoration Day</td>\n    </tr>\n    <tr>\n      <td>Thursday 1st December</td>\n      <td>National Day (in lieu)</td>\n    </tr>\n    <tr>\n      <td>Sunday 25th - Monday 26th December</td>\n      <td>Christmas &amp; Boxing Day</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Dates for local holidays marked with an * are approximate and may vary by one or two days. </p>\n\n<p>If you are a British National needing urgent consular assistance during this period, please call Tel: 04 309 4444</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n\n<p>The Foreign &amp; Commonwealth Office and the British Embassies in the UAE are keen to ensure that our buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled visitors, we have set out below details of disabled access at the British Embassy in Abu Dhabi, UAE. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General physical access:</h3>\n\n<ul>\n  <li>Entrances: entrances to the public areas are generally clear and unobstructed;</li>\n  <li>Steps and staircases (including any clear step edging); all public areas are on the ground floor. However, there are steps leading up to the Residence entrance;</li>\n  <li>Ramps (permanent or mobile); a permanent ramp provides access to our Consular area, and a temporary ramp can provide access to the Residence entrance;</li>\n  <li>Toilets: all public toilets are on the ground floor but we do not have special toilet facilities for wheelchair users or those with limited physical mobility in our consular or commercial areas. There is a disabled toilet in our new visa building and in the Residence;</li>\n  <li>Parking: parking facilities, with full transfer space, can be made available within the Embassy if requested in advance;</li>\n  <li>Floor coverings: floor coverings in the public areas are safe and even. However, there are a number of rugs covering the floor in the Residence;</li>\n  <li>Doors: doors in the public areas would be difficult to open by the wheelchair users or those with limited physical mobility themselves. Staff will always be available to assist anyone with specific requirements;</li>\n  <li>Lighting: the public areas are generally well lit;</li>\n  <li>Emergency/evacuation: our staff would assist disabled visitors.</li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for visually-impaired visitors</h3>\n\n<ul>\n  <li>Signs: signs are clear and use internationally recognisable symbols. None of our notices or forms are available in Braille;</li>\n  <li>Guide dogs: guide dogs are welcome.</li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for deaf/hard of hearing visitors</h3>\n\n<ul>\n  <li>we have no special equipment for deaf or hard of hearing visitors. Visitors requiring sign language interpretation services should provide their own;</li>\n  <li>hearing dogs: Hearing dogs are welcome.</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Abu Dhabi",
+              "street-address": "Khalid bin Al Waleed St (Street 22)",
+              "postal-code": "PO Box 248",
+              "locality": "Abu Dhabi",
+              "region": "Abu Dhabi",
+              "country-name": "United Arab Emirates"
+            },
+            "label": {
+              "value": "British Embassy Abu Dhabi\nKhalid bin Al Waleed St (Street 22)\nPO Box 248 Abu Dhabi\nUnited Arab Emirates"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+971 2 610 1100"
+            },
+            {
+              "label": "Fax commercial",
+              "number": "+971 2 610 1585"
+            },
+            {
+              "label": "Fax consular",
+              "number": "+971 2 610 1609"
+            },
+            {
+              "label": "Fax corporate services",
+              "number": "+971 2 610 1586  "
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Service of Process",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "UK VFS Visa Application Centre",
+            "format": "World Office",
+            "updated_at": "2013-05-09T06:59:34.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-abu-dhabi/office/uk-vfs-visa-application-centre",
+            "details": {
+              "email": "",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>Holiday</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sunday 3rd January</td>\n      <td>New Year’s Day</td>\n    </tr>\n    <tr>\n      <td>Sunday 27th - Monday 28th March</td>\n      <td>Easter</td>\n    </tr>\n    <tr>\n      <td>Thursday 5th May</td>\n      <td>Laylat Al-Meiraj</td>\n    </tr>\n    <tr>\n      <td>Wednesday 6th - Thursday 7th July</td>\n      <td>Eid Al-Fitr*(3 from 4 days to be decided)</td>\n    </tr>\n    <tr>\n      <td>Sunday 11th - Tuesday 13th September</td>\n      <td>Eid Al-Adha*</td>\n    </tr>\n    <tr>\n      <td>Sunday 2nd October</td>\n      <td>Al-Hijra*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 30th November</td>\n      <td>Martyrs’ Day</td>\n    </tr>\n    <tr>\n      <td>Thursday 1st December</td>\n      <td>National Day</td>\n    </tr>\n    <tr>\n      <td>Monday 12th December</td>\n      <td>Miliad Un Nabi - Birthday of Prophet Mohammad</td>\n    </tr>\n    <tr>\n      <td>Sunday 24th - Monday 26th December</td>\n      <td>Christmas &amp; Boxing Day</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Dates for local holidays marked with an * are approximate and may vary by one or two days. </p>\n\n<p>If you are a British National needing urgent consular assistance during this period, please call Tel: +971 4 309 4444 for Dubai and +971 2 610 1100 for Abu Dhabi.</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n\n<p>The Foreign &amp; Commonwealth Office and the British Embassies in the UAE are keen to ensure that our buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled visitors, we have set out below details of disabled access at the British Embassy in Abu Dhabi, UAE. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General physical access:</h3>\n\n<ul>\n  <li>entrances: entrances to the public areas are generally clear and unobstructed;</li>\n  <li>steps and staircases (including any clear step edging); all public areas are on the ground floor. However, there are steps leading up to the Residence entrance;</li>\n  <li>ramps (permanent or mobile); a permanent ramp provides access to our Consular area, and a temporary ramp can provide access to the Residence entrance;</li>\n  <li>toilets: all public toilets are on the ground floor but we do not have special toilet facilities for wheelchair users or those with limited physical mobility in our consular or commercial areas. There is a disabled toilet in our new visa building and in the Residence;</li>\n  <li>parking: parking facilities, with full transfer space, can be made available within the Embassy if requested in advance;</li>\n  <li>floor coverings: floor coverings in the public areas are safe and even. However, there are a number of rugs covering the floor in the Residence;</li>\n  <li>doors: doors in the public areas would be difficult to open by the wheelchair users or those with limited physical mobility themselves. Staff will always be available to assist anyone with specific requirements;</li>\n  <li>lighting: the public areas are generally well lit;</li>\n  <li>emergency/evacuation: our staff would assist disabled visitors.</li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for visually-impaired visitors</h3>\n\n<ul>\n  <li>signs: signs are clear and use internationally recognisable symbols. None of our notices or forms are available in Braille;</li>\n  <li>guide dogs: guide dogs are welcome.</li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for deaf/hard of hearing visitors</h3>\n\n<ul>\n  <li>we have no special equipment for deaf or hard of hearing visitors. Visitors requiring sign language interpretation services should provide their own;</li>\n  <li>hearing dogs: Hearing dogs are welcome.</li>\n</ul>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Shining Tower, Level 25\r\nKing Khalid Bin Abdel Aziz 26th Street,\r\nAdjacent to Khalidyah Mall, \r\nAbu Dhabi – UAE\r\nP.O.Box 30023",
+                "postal-code": "",
+                "locality": "",
+                "region": "",
+                "country-name": "United Arab Emirates"
+              },
+              "label": {
+                "value": "Shining Tower, Level 25\r\nKing Khalid Bin Abdel Aziz 26th Street,\r\nAdjacent to Khalidyah Mall, \r\nAbu Dhabi – UAE\r\nP.O.Box 30023\n \nUnited Arab Emirates"
+              }
+            },
+            "contact_numbers": [
+
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-united-arab-emirates",
+      "title": "UK Trade & Investment United Arab Emirates",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-06-25T12:56:49.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-united-arab-emirates",
+      "details": {
+        "slug": "uk-trade-investment-united-arab-emirates"
+      },
+      "analytics_identifier": "WO293",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Dubai",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-united-arab-emirates/office/uk-trade-investment-dubai",
+          "details": {
+            "email": "ukti.uae@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "PO Box 65",
+              "postal-code": "",
+              "locality": "",
+              "region": "Dubai",
+              "country-name": "United Arab Emirates"
+            },
+            "label": {
+              "value": "British Embassy\nPO Box 65\n \nUnited Arab Emirates"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries",
+              "number": "+971 (4) 309 4404"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "UK Trade & Investment Abu Dhabi",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:54.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-united-arab-emirates/office/uk-trade-investment-abu-dhabi",
+            "details": {
+              "email": "ukti.uae@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "British Embassy",
+                "street-address": "PO Box 248",
+                "postal-code": "",
+                "locality": "Abu Dhabi",
+                "region": "",
+                "country-name": "United Arab Emirates"
+              },
+              "label": {
+                "value": "British Embassy\nPO Box 248\n Abu Dhabi\nUnited Arab Emirates"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "General enquiries",
+                "number": "+971 (2) 610 1111"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-dubai",
+      "title": "British Embassy Dubai",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-06-22T10:50:29.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-dubai",
+      "details": {
+        "slug": "british-embassy-dubai"
+      },
+      "analytics_identifier": "WO328",
+      "offices": {
+        "main": {
+          "title": "British Embassy Dubai",
+          "format": "World Office",
+          "updated_at": "2013-04-08T09:15:28.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-dubai/office/british-embassy-dubai",
+          "details": {
+            "email": "consular.UAE@fco.gov.uk ",
+            "description": "Office Hours: \r\nSunday to Thursday, 7:30am to 2:30pm (Local)\r\nSunday to Thursday, 4:30am to 11:30am (GMT)\r\n\r\nFor all Visa related enquiries:\r\nVisa International Enquiry Service: www.gov.uk/contact-ukvi-outside-uk\r\n\r\nIf you need to visit the British Embassy for a consular issue, you may need to make an appointment. Please check our Notarial and documentary service to see which services will require an appointment to be made in advance of your visit.\r\n",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>Holiday</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sunday 3rd January</td>\n      <td>New Year’s Day</td>\n    </tr>\n    <tr>\n      <td>Sunday 27th - Monday 28th March</td>\n      <td>Easter</td>\n    </tr>\n    <tr>\n      <td>Thursday 5th May</td>\n      <td>Laylat Al-Meiraj*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 6th - Thursday 7th July</td>\n      <td>Eid Al-Fitr*(2 from 3 days to be decided)</td>\n    </tr>\n    <tr>\n      <td>Sunday 11th - Tuesday 13th September</td>\n      <td>Eid Al-Adha*</td>\n    </tr>\n    <tr>\n      <td>Sunday 2nd October</td>\n      <td>Al-Hijra*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 30th November</td>\n      <td>Commemoration Day</td>\n    </tr>\n    <tr>\n      <td>Thursday 1st December</td>\n      <td>National Day</td>\n    </tr>\n    <tr>\n      <td>Monday 12th December</td>\n      <td>Miliad Un Nabi - Birthday of Prophet Mohammad*</td>\n    </tr>\n    <tr>\n      <td>Sunday 25th - Monday 26th December</td>\n      <td>Christmas &amp; Boxing Day</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Dates for local holidays marked with an * are approximate and may vary by one or two days. </p>\n\n<p>If you are a British National needing urgent consular assistance during this period, please call Tel: +971 4 309 4444 for Dubai and +971 2 610 1100 for Abu Dhabi.</p>\n\n<h2 id=\"access-update\">Access update</h2>\n\n<p>Road access to the British Embassy Dubai has changed.\nDue to construction work taking place on Al Seef Road at Dubai Creek, the road has been reduced to one lane travelling one way towards Rulers Court.\nAccess to the main entrance of the British Embassy is from Khalid Bin Al Waleed Road on to Al Seef Road.\nPublic parking is still available in between our compound and the US Consulate.\nWith substantial redevelopment taking place in the vicinity of the embassy, guests should be prepared for last minute changes to surrounding roads and parking arrangements. Currently there is no public parking opposite the embassy. \nArrangements for entering and exiting the Embassy remain the same.</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n\n<p>The Foreign &amp; Commonwealth Office and the British Embassies in the UAE are keen to ensure that our buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled visitors, we have set out below details of disabled access at the British Embassies in the UAE. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access-dubai-\">General physical access: Dubai :</h3>\n\n<ul>\n  <li>entrances: entrances to the public areas are generally clear and unobstructed</li>\n  <li>steps and staircases (including any clear step edging); all public areas are on the ground floor</li>\n  <li>ramps (permanent or mobile); a permanent ramp provides access to our Consular area;</li>\n  <li>toilets: all public toilets are on the ground floor and there is a disabled toilet in our building and in the Residence;</li>\n  <li>parking: parking facilities, with full transfer space, can be made available within the Embassy if requested in advance, but paid parking is readily available opposite the Embassy next to the Creek;</li>\n  <li>floor coverings: floor coverings in the public areas are safe and even </li>\n  <li>doors: doors in the public areas would be difficult to open by the wheelchair users or those with limited physical mobility themselves. Staff will always be available to assist anyone with specific requirements;</li>\n  <li>lighting: the public areas are generally well lit;</li>\n  <li>emergency/evacuation: our staff would assist disabled visitors</li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for visually-impaired visitors</h3>\n\n<ul>\n  <li>signs: signs are clear and use internationally recognisable symbols. None of our notices or forms are available in Braille;</li>\n  <li>guide dogs: guide dogs are welcome.</li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for deaf/hard of hearing visitors</h3>\n\n<ul>\n  <li>we have no special equipment for deaf or hard of hearing visitors. Visitors requiring sign language interpretation services should provide their own;</li>\n  <li>hearing dogs: Hearing dogs are welcome.</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Dubai",
+              "street-address": "Al Seef Road\r\nBur Dubai\r\nNear to Dubai Creekside\r\nPO Box 65",
+              "postal-code": "",
+              "locality": "Dubai",
+              "region": "Dubai",
+              "country-name": "United Arab Emirates"
+            },
+            "label": {
+              "value": "British Embassy Dubai\nAl Seef Road\r\nBur Dubai\r\nNear to Dubai Creekside\r\nPO Box 65\n Dubai\nUnited Arab Emirates"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+971 4 309 4444 "
+            },
+            {
+              "label": "Fax",
+              "number": "+971 4 309 4301 "
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Service of Process",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "UK VFS Visa Application Centre",
+            "format": "World Office",
+            "updated_at": "2013-05-09T06:47:08.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-dubai/office/uk-vfs-visa-application-centre",
+            "details": {
+              "email": "",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<table>\n  <thead>\n    <tr>\n      <th>Date</th>\n      <th>Holiday</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sunday 3rd January</td>\n      <td>New Year’s Day</td>\n    </tr>\n    <tr>\n      <td>Sunday 27th - Monday 28th March</td>\n      <td>Easter</td>\n    </tr>\n    <tr>\n      <td>Thursday 5th May</td>\n      <td>Laylat Al-Meiraj*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 6th - Thursday 7th July</td>\n      <td>Eid Al-Fitr*(2 from 3 days to be decided)</td>\n    </tr>\n    <tr>\n      <td>Sunday 11th - Tuesday 13th September</td>\n      <td>Eid Al-Adha*</td>\n    </tr>\n    <tr>\n      <td>Sunday 2nd October</td>\n      <td>Al-Hijra*</td>\n    </tr>\n    <tr>\n      <td>Wednesday 30th November</td>\n      <td>Commemoration Day</td>\n    </tr>\n    <tr>\n      <td>Thursday 1st December</td>\n      <td>National Day</td>\n    </tr>\n    <tr>\n      <td>Monday 12th December</td>\n      <td>Miliad Un Nabi - Birthday of Prophet Mohammad*</td>\n    </tr>\n    <tr>\n      <td>Sunday 25th - Monday 26th December</td>\n      <td>Christmas &amp; Boxing Day</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Dates for local holidays marked with an * are approximate and may vary by one or two days. </p>\n\n<p>If you are a British National needing urgent consular assistance during this period, please call Tel: +971 4 309 4444 for Dubai and +971 2 610 1100 for Abu Dhabi.</p>\n\n<h2 id=\"access-update\">Access update</h2>\n\n<p>Road access to the British Embassy Dubai has changed.\nDue to construction work taking place on Al Seef Road at Dubai Creek, the road has been reduced to one lane travelling one way towards Rulers Court.\nAccess to the main entrance of the British Embassy is from Khalid Bin Al Waleed Road on to Al Seef Road.\nPublic parking is still available in between our compound and the US Consulate.\nWith substantial redevelopment taking place in the vicinity of the embassy, guests should be prepared for last minute changes to surrounding roads and parking arrangements. Currently there is no public parking opposite the embassy. \nArrangements for entering and exiting the Embassy remain the same.</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n\n<p>The Foreign &amp; Commonwealth Office and the British Embassies in the UAE are keen to ensure that our buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled visitors, we have set out below details of disabled access at the British Embassies in the UAE. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access-dubai-\">General physical access: Dubai :</h3>\n\n<ul>\n  <li>entrances: entrances to the public areas are generally clear and unobstructed</li>\n  <li>steps and staircases (including any clear step edging); all public areas are on the ground floor</li>\n  <li>ramps (permanent or mobile); a permanent ramp provides access to our Consular area;</li>\n  <li>toilets: all public toilets are on the ground floor and there is a disabled toilet in our building and in the Residence;</li>\n  <li>parking: parking facilities, with full transfer space, can be made available within the Embassy if requested in advance, but paid parking is readily available opposite the Embassy next to the Creek;</li>\n  <li>floor coverings: floor coverings in the public areas are safe and even </li>\n  <li>doors: doors in the public areas would be difficult to open by the wheelchair users or those with limited physical mobility themselves. Staff will always be available to assist anyone with specific requirements;</li>\n  <li>lighting: the public areas are generally well lit;</li>\n  <li>emergency/evacuation: our staff would assist disabled visitors</li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for visually-impaired visitors</h3>\n\n<ul>\n  <li>signs: signs are clear and use internationally recognisable symbols. None of our notices or forms are available in Braille;</li>\n  <li>guide dogs: guide dogs are welcome.</li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for deaf/hard of hearing visitors</h3>\n\n<ul>\n  <li>we have no special equipment for deaf or hard of hearing visitors. Visitors requiring sign language interpretation services should provide their own;</li>\n  <li>hearing dogs: Hearing dogs are welcome.</li>\n</ul>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Wafi Mall, 3rd Floor, Falcon, Phase 2\r\nUmm Hurair 2 – Dubai – UAE\r\nP.O Box 114100\r\n",
+                "postal-code": "",
+                "locality": "Dubai",
+                "region": "",
+                "country-name": "United Arab Emirates"
+              },
+              "label": {
+                "value": "Wafi Mall, 3rd Floor, Falcon, Phase 2\r\nUmm Hurair 2 – Dubai – UAE\r\nP.O Box 114100\r\n Dubai\nUnited Arab Emirates"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "VFS Telephone Number",
+                "number": "04 205 5800"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 3,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/united-arab-emirates/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

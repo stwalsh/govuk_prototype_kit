@@ -1,0 +1,27 @@
+<% if start_node.meta_description.present? %>
+  <% content_for :head do %>
+    <meta name="description" content="<%= start_node.meta_description %>">
+  <% end %>
+<% end %>
+
+<header class="page-header group">
+  <div>
+    <h1>
+      <%= start_node.title %>
+    </h1>
+  </div>
+</header>
+
+<div class="article-container group">
+  <article role="article" class="group">
+    <div class="inner">
+      <div class="intro">
+        <%= start_node.body %>
+        <p class="get-started">
+          <a rel="nofollow" href="<%= smart_answer_path(@name, started: 'y') %>" class="big button">Start now</a>
+        </p>
+      </div>
+      <%= start_node.post_body %>
+    </div>
+  </article>
+</div>

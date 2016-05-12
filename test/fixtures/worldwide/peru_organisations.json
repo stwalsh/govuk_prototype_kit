@@ -1,0 +1,223 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-peru",
+      "title": "British Embassy Lima",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-01-08T20:19:47.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-peru",
+      "details": {
+        "slug": "british-embassy-peru"
+      },
+      "analytics_identifier": "WO7",
+      "offices": {
+        "main": {
+          "title": "British Embassy Lima",
+          "format": "World Office",
+          "updated_at": "2014-01-14T18:09:08.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-peru/office/british-embassy-lima",
+          "details": {
+            "email": "belima@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><p><a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/complaints-procedure#consular-services-complaints-and-compliments\">Consular services complaints and compliments</a></p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<ul>\n  <li>Friday 01 January</li>\n  <li>Thursday 24 March</li>\n  <li>Friday 25 March</li>\n  <li>Monday 2 May</li>\n  <li>Monday 30 May</li>\n  <li>Wednesday 29 June</li>\n  <li>Thursday 28 July</li>\n  <li>Friday 29 July</li>\n  <li>Monday 29 August</li>\n  <li>Tuesday 30 August</li>\n  <li>Tuesday 1 November</li>\n  <li>Thursday 8 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Torre Parque Mar (22nd Floor)\r\nAvenida José Larco 1301\r\nMiraflores",
+              "postal-code": "",
+              "locality": "Lima",
+              "region": "",
+              "country-name": "Peru"
+            },
+            "label": {
+              "value": "Torre Parque Mar (22nd Floor)\r\nAvenida José Larco 1301\r\nMiraflores\nLima\nPeru"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Main enquiries",
+              "number": "+51 1  617 3000"
+            },
+            {
+              "label": "Fax",
+              "number": "+51 1 617 3100"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Service of Process",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "Visa Section",
+            "format": "World Office",
+            "updated_at": "2014-02-18T21:00:56.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-peru/office/visa-section",
+            "details": {
+              "email": "",
+              "description": "Opening times:  From Monday to Friday from 8:00 to 12:00\r\n\r\nPassport collection times:  From Monday to Friday from 11:30 to 12:00\r\n\r\nTo obtain information on visas please visit our web page http://www.vfsglobal.co.uk/Peru/, where you can obtain free information regarding visas.",
+              "contact_form_url": "http://www.vfsglobal.co.uk/Peru/",
+              "access_and_opening_times": "<div class=\"govspeak\"><p><a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/complaints-procedure#consular-services-complaints-and-compliments\">Consular services complaints and compliments</a> </p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>Our offices will be closed for the following public holidays in 2016:</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Date</td>\n    </tr>\n    <tr>\n      <td>Friday 01 January</td>\n    </tr>\n    <tr>\n      <td>Thursday 24 March</td>\n    </tr>\n    <tr>\n      <td>Friday 25 March</td>\n    </tr>\n    <tr>\n      <td>Monday 2 May</td>\n    </tr>\n    <tr>\n      <td>Monday 30 May</td>\n    </tr>\n    <tr>\n      <td>Wednesday 29 June</td>\n    </tr>\n    <tr>\n      <td>Thursday 28 July</td>\n    </tr>\n    <tr>\n      <td>Friday 29 July</td>\n    </tr>\n    <tr>\n      <td>Monday 29 August</td>\n    </tr>\n    <tr>\n      <td>Tuesday 30 August</td>\n    </tr>\n    <tr>\n      <td>Tuesday 1 November</td>\n    </tr>\n    <tr>\n      <td>Thursday 8 December</td>\n    </tr>\n    <tr>\n      <td>Monday 26 December</td>\n    </tr>\n    <tr>\n      <td>Tuesday 27 December</td>\n    </tr>\n  </tbody>\n</table>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Visa Section",
+                "street-address": "Torre Parque Mar (23rd Floor) \r\nAvenida José Larco, 1301 \r\nMiraflores",
+                "postal-code": "",
+                "locality": "",
+                "region": "",
+                "country-name": "Peru"
+              },
+              "label": {
+                "value": "Visa Section\nTorre Parque Mar (23rd Floor) \r\nAvenida José Larco, 1301 \r\nMiraflores\nPeru"
+              }
+            },
+            "contact_numbers": [
+
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-peru",
+      "title": "UK Trade & Investment Peru",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-16T14:05:35.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-peru",
+      "details": {
+        "slug": "uk-trade-investment-peru"
+      },
+      "analytics_identifier": "WO168",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Peru",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:53.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-peru/office/uk-trade-investment-peru",
+          "details": {
+            "email": "UKTI.Lima@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "Torre Parque Mar (22nd Floor)",
+              "postal-code": "1301",
+              "locality": "Avenida Jose Larco",
+              "region": "Miraflores",
+              "country-name": "Peru"
+            },
+            "label": {
+              "value": "British Embassy\nTorre Parque Mar (22nd Floor)\nAvenida Jose Larco\nMiraflores\n1301\nPeru"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+511 617 3000"
+            }
+          ],
+          "services": [
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/peru/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

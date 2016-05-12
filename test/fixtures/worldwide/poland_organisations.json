@@ -1,0 +1,272 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-warsaw",
+      "title": "British Embassy Warsaw ",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-12-06T15:14:56.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-warsaw",
+      "details": {
+        "slug": "british-embassy-warsaw"
+      },
+      "analytics_identifier": "WO42",
+      "offices": {
+        "main": {
+          "title": "British Embassy Warsaw",
+          "format": "World Office",
+          "updated_at": "2013-06-28T18:39:11.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-warsaw/office/british-embassy",
+          "details": {
+            "email": "",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<p>Monday to Friday, 8:30am to 4:30pm. Public holidays (see below) CLOSED.</p>\n\n<h3 id=\"consular-section-opening-hours\">Consular Section opening hours:</h3>\n<p>Monday, Tuesday, Thursday, Friday - 9:00am to 12:30pm. Wednesday and public holidays (see below) CLOSED.</p>\n\n<h2 id=\"public-holidays-in-2016\">Public holidays in 2016</h2>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Wednesday 6 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Tuesday 3 May</li>\n  <li>Thursday 26 May</li>\n  <li>Friday 27 May</li>\n  <li>Monday 15 August</li>\n  <li>Monday 29 August</li>\n  <li>Tuesday 1 November</li>\n  <li>Friday 11 November</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "ul. Kawalerii 12",
+              "postal-code": "00-468",
+              "locality": "Warsaw",
+              "region": "mazowieckie",
+              "country-name": "Poland"
+            },
+            "label": {
+              "value": "ul. Kawalerii 12\n00-468 Warsaw\nmazowieckie\nPoland"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+48 22 311 00 00"
+            },
+            {
+              "label": "Fax",
+              "number": "+48 22 311 03 13"
+            },
+            {
+              "label": "Consular enquiries:",
+              "number": "warsaw_consularmail@fco.gov.uk"
+            },
+            {
+              "label": "General enquiries:",
+              "number": "info@britishembassy.pl"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "Visa Services",
+            "format": "World Office",
+            "updated_at": "2014-07-15T08:35:22.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-warsaw/office/visa-services",
+            "details": {
+              "email": "",
+              "description": "",
+              "contact_form_url": "https://www.gov.uk/contact-ukvi-outside-uk",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"visa-services-in-poland\">Visa Services in Poland</h2>\n<p>More information about the visa application centre in Warsaw and visa services is available on the <a href=\"https://www.gov.uk/government/organisations/uk-visas-and-immigration\">UK Visas and Immigration</a> (UKVI) pages of <a href=\"www.gov.uk\">GOV.UK</a>. </p>\n\n<p>If you need to contact us about applying for a visa to visit, work, study or settle in the UK from outside the UK please visit <a href=\"https://www.gov.uk/contact-ukvi-outside-uk\">this page</a>.</p>\n\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "British Embassy Warsaw",
+                "street-address": "ul. Kawalerii 12",
+                "postal-code": "00-468",
+                "locality": "Warsaw",
+                "region": "",
+                "country-name": "Poland"
+              },
+              "label": {
+                "value": "British Embassy Warsaw\nul. Kawalerii 12\n00-468 Warsaw\nPoland"
+              }
+            },
+            "contact_numbers": [
+
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-poland",
+      "title": "UK Trade & Investment Poland",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-16T14:08:44.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-poland",
+      "details": {
+        "slug": "uk-trade-investment-poland"
+      },
+      "analytics_identifier": "WO180",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Poland",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:53.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-poland/office/uk-trade-investment-poland",
+          "details": {
+            "email": "warsaw.commercialsection@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Warsaw",
+              "street-address": "ul. Kawalerii 12",
+              "postal-code": "00-468 ",
+              "locality": "",
+              "region": "Warsaw ",
+              "country-name": "Poland"
+            },
+            "label": {
+              "value": "British Embassy Warsaw\nul. Kawalerii 12\n00-468  \nWarsaw \nPoland"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+48 22 311 00 00"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-science-and-innovation-network",
+      "title": "UK Science and Innovation Network",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-11-14T06:13:09.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-science-and-innovation-network",
+      "details": {
+        "slug": "uk-science-and-innovation-network"
+      },
+      "analytics_identifier": "WO363",
+      "offices": {
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for Business, Innovation & Skills",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+          "details": {
+            "acronym": "BIS"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-science-innovation-network-in-poland",
+      "title": "UK Science & Innovation Network in Poland",
+      "format": "Worldwide Organisation",
+      "updated_at": "2016-03-02T14:53:59.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-science-innovation-network-in-poland",
+      "details": {
+        "slug": "uk-science-innovation-network-in-poland"
+      },
+      "analytics_identifier": "WO459",
+      "offices": {
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for Business, Innovation & Skills",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+          "details": {
+            "acronym": "BIS"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 4,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/poland/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

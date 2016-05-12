@@ -1,0 +1,358 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-lisbon",
+      "title": "British Embassy Lisbon",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-08-09T10:13:29.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-lisbon",
+      "details": {
+        "slug": "british-embassy-lisbon"
+      },
+      "analytics_identifier": "WO57",
+      "offices": {
+        "main": {
+          "title": "British Embassy",
+          "format": "World Office",
+          "updated_at": "2013-06-12T16:29:02.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-lisbon/office/british-embassy",
+          "details": {
+            "email": "ppa.lisbon@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<ul>\n  <li>Embassy opening hours are Monday to Friday, 9am to 1pm and 2.30pm to 5pm</li>\n  <li>Consulate opening hours are 9.30am to 2pm on Monday, Wednesday and Friday</li>\n</ul>\n\n<h2 id=\"public-holidays-in-2016\">Public holidays in 2016:</h2>\n<p>Our offices will be closed for the following public holidays:</p>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Tuesday 9 February</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 25 April </li>\n  <li>Monday 2 May</li>\n  <li>Monday 30 May</li>\n  <li>Friday 10 June</li>\n  <li>Monday 15 August </li>\n  <li>Monday 29 August </li>\n  <li>Thursday 8 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"municipal-holidays\">Municipal Holidays</h2>\n<ul>\n  <li>Monday 16 May (Azores only)</li>\n  <li>Monday 13 June (Lisbon only) </li>\n  <li>Friday 24 June (Oporto only)</li>\n  <li>Monday 22 August (Funchal only)</li>\n  <li>Monday 12 December (Portimão only) </li>\n</ul>\n\n<h2 id=\"map\">Map</h2>\n<p>The Embassy is located off Avenida Alvares  Cabral a main arterial road which connects Largo do Rato with Jardim de Estrela. \nYou can find a map of our office location on our <a rel=\"external\" href=\"https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1e839ced05922c3d\">Google map page.</a></p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n<p>Our offices are fully equipped with facilities for disabled visitors including ramps for wheelchairs. If you need special assistance, please contact us before your visit.</p>\n\n<h2 id=\"security-regulations\">Security regulations</h2>\n<p>The British Embassy Lisbon security regulations, in line with all British diplomatic missions world-wide, do not permit visitors to enter the embassy with mobile telephones, laptops, PDAs or any other similar electrical devices. We prefer that you arrive at the embassy without them.   If this is not possible we will retain them at the entrance during your visit.  Visitors are required to pass through a number of security checks where such items will be detected.</p>\n\n<p>Weapons (including pepper sprays), or any object that our security staff consider could be used as a weapon (scissors, screwdrivers, small blades), are also forbidden. These will not be retained by our staff. Should you arrive with such an object you will not be granted access but will be asked to return without it.  </p>\n\n<p>These regulations are intended to help us ensure the security for our staff and visitors. Your co-operation is appreciated. </p>\n\n<h2 id=\"parking\">Parking</h2>\n<p>There’s no parking at or near the Consulate in Lisbon (the streets around the Embassy building at very congested with parked cars. There is an underground car park half way down Avenida Alvares Cabral (on the right in the direction of Largo do Rato). </p>\n\n<h2 id=\"bus\">Bus</h2>\n<p>For those who prefer to travel by bus to the British Embassy, you can find detailed information on <a rel=\"external\" href=\"http://carris.transporteslisboa.pt/en/home/\">Lisbon’s transports website</a> where you can plan your route using the route simulator.</p>\n\n<h2 id=\"metro\">Metro</h2>\n<p>The nearest underground station to the Embassy is Rato, which is at the end of the yellow line. When arriving at Rato, take the exit sign posted “Alvares Cabral”. Route maps and service information can be found on the <a rel=\"external\" href=\"http://metro.transporteslisboa.pt/eng/\">Lisbon Metro website</a>.</p>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Rua de São Bernardo 33",
+              "postal-code": "1249-082",
+              "locality": "Lisbon",
+              "region": "",
+              "country-name": "Portugal"
+            },
+            "label": {
+              "value": "Rua de São Bernardo 33\n1249-082 Lisbon \nPortugal"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+351 21 392 40 00"
+            },
+            {
+              "label": "Fax",
+              "number": "+351 21 392 41 84"
+            },
+            {
+              "label": "portugal.consulate@fco.gov.uk",
+              "number": "(Consular enquiries only, not Visas or Passports)"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "British Consulate Lisbon",
+            "format": "World Office",
+            "updated_at": "2014-09-23T11:12:12.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-lisbon/office/british-consulate-lisbon",
+            "details": {
+              "email": "portugal.consulate@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<p>The consulate is open to visitors Monday, Wednesday and Friday from 9.30am to 2pm, excluding public holidays. Consular phone lines are open from 9am to 5pm.</p>\n\n<h2 id=\"public-holidays-in-2016\">Public holidays in 2016:</h2>\n<p>Our offices will be closed for the following public holidays:</p>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Tuesday 9 February</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 25 April </li>\n  <li>Monday 2 May</li>\n  <li>Monday 30 May</li>\n  <li>Friday 10 June</li>\n  <li>Monday 15 August </li>\n  <li>Monday 29 August </li>\n  <li>Thursday 8 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"municipal-holidays\">Municipal Holidays</h2>\n<ul>\n  <li>Monday 16 May (Azores only)</li>\n  <li>Monday 13 June (Lisbon only) </li>\n  <li>Friday 24 June (Oporto only)</li>\n  <li>Monday 22 August (Funchal only)</li>\n  <li>Monday 12 December (Portimão only)</li>\n</ul>\n\n<h2 id=\"map\">Map</h2>\n<p>The Embassy is located off Avenida Alvares  Cabral a main arterial road which connects Largo do Rato with Jardim de Estrela. \nYou can find a map of our office location on our <a rel=\"external\" href=\"https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1e839ced05922c3d\">Google map page.</a></p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n<p>Our offices are fully equipped with facilities for disabled visitors including ramps for wheelchairs. If you need special assistance, please contact us before your visit.</p>\n\n<h2 id=\"security-regulations\">Security regulations</h2>\n<p>The British Embassy Lisbon security regulations, in line with all British diplomatic missions world-wide, do not permit visitors to enter the embassy with mobile telephones, laptops, PDAs or any other similar electrical devices. We prefer that you arrive at the embassy without them.   If this is not possible we will retain them at the entrance during your visit.  Visitors are required to pass through a number of security checks where such items will be detected.</p>\n\n<p>Weapons (including pepper sprays), or any object that our security staff consider could be used as a weapon (scissors, screwdrivers, small blades), are also forbidden. These will not be retained by our staff. Should you arrive with such an object you will not be granted access but will be asked to return without it.  </p>\n\n<p>These regulations are intended to help us ensure the security for our staff and visitors. Your co-operation is appreciated. </p>\n\n<h2 id=\"parking\">Parking</h2>\n<p>There’s no parking at or near the Consulate in Lisbon (the streets around the Embassy building at very congested with parked cars. There is an underground car park half way down Avenida Alvares Cabral (on the right in the direction of Largo do Rato). </p>\n\n<h2 id=\"bus\">Bus</h2>\n<p>For those who prefer to travel by bus to the British Embassy, you can find detailed information on <a rel=\"external\" href=\"http://carris.transporteslisboa.pt/en/home/\">Lisbon’s transports website</a> where you can plan your route using the route simulator.</p>\n\n<h2 id=\"metro\">Metro</h2>\n<p>The nearest underground station to the Embassy is Rato, which is at the end of the yellow line. When arriving at Rato, take the exit sign posted “Alvares Cabral”. Route maps and service information can be found on the <a rel=\"external\" href=\"http://metro.transporteslisboa.pt/eng/\">Lisbon Metro website</a>.</p>\n</div>",
+              "type": "Consulate"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Rua de São Bernardo 33",
+                "postal-code": "1249-082",
+                "locality": "Lisboa",
+                "region": "",
+                "country-name": "Portugal"
+              },
+              "label": {
+                "value": "Rua de São Bernardo 33\n1249-082 Lisboa \nPortugal"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "+351 21 392 4000"
+              },
+              {
+                "label": "Fax",
+                "number": "+351 21 392 41 53"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Transferring funds for prisoners / for financial assistance service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Births and Deaths registration service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Notarial services",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Citizenship Ceremony service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Lost or Stolen Passports",
+                "type": "Assistance Services"
+              }
+            ]
+          },
+          {
+            "title": "British Vice Consulate Portimão",
+            "format": "World Office",
+            "updated_at": "2014-09-23T11:12:12.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-lisbon/office/british-consulate-portimao",
+            "details": {
+              "email": "portugal.consulate@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<ul>\n  <li>Embassy opening hours are Monday to Friday, 9am to 1pm and 2.30pm to 5pm</li>\n  <li>Consulate opening hours are 9.30am to 2pm on Monday, Wednesday and Friday</li>\n</ul>\n\n<h2 id=\"public-holidays-in-2016\">Public holidays in 2016:</h2>\n<p>Our offices will be closed for the following public holidays:</p>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Tuesday 9 February</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 25 April </li>\n  <li>Monday 2 May</li>\n  <li>Monday 30 May</li>\n  <li>Friday 10 June</li>\n  <li>Monday 15 August </li>\n  <li>Monday 29 August </li>\n  <li>Tuesday 8 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"municipal-holidays\">Municipal Holidays</h2>\n<ul>\n  <li>Monday 16 May (Azores only)</li>\n  <li>Monday 13 June (Lisbon only) </li>\n  <li>Friday 24 June (Oporto only)</li>\n  <li>Monday 22 August (Funchal only)</li>\n  <li>Monday 12 December (Portimão only)</li>\n</ul>\n</div>",
+              "type": "Consulate"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Edificio A Fábrica\r\nAvenida Guanaré",
+                "postal-code": "8501-915",
+                "locality": "Portimão",
+                "region": "",
+                "country-name": "Portugal"
+              },
+              "label": {
+                "value": "Edificio A Fábrica\r\nAvenida Guanaré\n8501-915 Portimão \nPortugal"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "+351 282 490 750"
+              },
+              {
+                "label": "Fax",
+                "number": "+351 282 414 054"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Lost or Stolen Passports",
+                "type": "Assistance Services"
+              }
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-vice-consulate-portimao",
+      "title": "British Vice Consulate Portimão",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-10-15T12:44:49.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-vice-consulate-portimao",
+      "details": {
+        "slug": "british-vice-consulate-portimao"
+      },
+      "analytics_identifier": "WO442",
+      "offices": {
+        "main": {
+          "title": "British Vice Consulate Portimão",
+          "format": "World Office",
+          "updated_at": "2015-10-15T12:51:41.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-vice-consulate-portimao/office/british-vice-consulate-portimao",
+          "details": {
+            "email": "portugal.consulate@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<ul>\n  <li>Consulate opening hours are 9.30am to 2pm on Monday, Wednesday and Friday</li>\n</ul>\n\n<h2 id=\"public-holidays-in-2016\">Public holidays in 2016</h2>\n\n<ul>\n  <li>Friday 01 January</li>\n  <li>Tuesday 09 February</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 25 April </li>\n  <li>Monday 2 May</li>\n  <li>Monday 30 May</li>\n  <li>Friday 10 June</li>\n  <li>Monday 15 August </li>\n  <li>Monday 29 August </li>\n  <li>Thursday 8 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"municipal-holidays\">Municipal Holidays</h2>\n<ul>\n  <li>Monday 16 May (Azores only)</li>\n  <li>Monday 13 June (Lisbon only) </li>\n  <li>Friday 24 June (Oporto only)</li>\n  <li>Monday 22 August (Funchal only)</li>\n  <li>Monday 12 December (Portimão only) </li>\n</ul>\n</div>",
+            "type": "Consulate"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Edificio A Fábrica\r\nAvenida Guanaré",
+              "postal-code": "8501-915",
+              "locality": "Portimão",
+              "region": "",
+              "country-name": "Portugal"
+            },
+            "label": {
+              "value": "Edificio A Fábrica\r\nAvenida Guanaré\n8501-915 Portimão \nPortugal"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+351 282 490 750"
+            },
+            {
+              "label": "Fax",
+              "number": "+351 282 414 054"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-portugal",
+      "title": "UK Trade & Investment Portugal",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-16T14:18:39.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-portugal",
+      "details": {
+        "slug": "uk-trade-investment-portugal"
+      },
+      "analytics_identifier": "WO268",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Lisbon",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-portugal/office/uk-trade-investment-lisbon",
+          "details": {
+            "email": "uktradeinvest.lisbon@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "Rua de São Bernardo, 33",
+              "postal-code": "1249-082 ",
+              "locality": "",
+              "region": "Lisboa",
+              "country-name": "Portugal"
+            },
+            "label": {
+              "value": "British Embassy\nRua de São Bernardo, 33\n1249-082   Lisboa\nPortugal"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General Enquiries",
+              "number": "00351 213 924 000"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "Investment Contacts",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:55.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-portugal/office/investment-contacts",
+            "details": {
+              "email": "investuk.lisbon@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "British Embassy Lisbon",
+                "street-address": "Rua de São Bernardo 33",
+                "postal-code": "1249-082",
+                "locality": "Lisboa",
+                "region": "",
+                "country-name": "Portugal"
+              },
+              "label": {
+                "value": "British Embassy Lisbon\nRua de São Bernardo 33\n1249-082 Lisboa \nPortugal"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "General Enquiries",
+                "number": "00351213924000"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 3,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/portugal/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

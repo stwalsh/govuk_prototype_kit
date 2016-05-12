@@ -1,0 +1,28 @@
+<div class="question">
+  <h2>
+    <%= question.title %>
+  </h2>
+  <div class="question-body">
+    <% if question.body.present? %>
+      <article role="article">
+        <%= question.body %>
+      </article>
+    <% end %>
+
+    <% if question.hint.present? %>
+      <p class="hint"><%= question.hint %></p>
+    <% end %>
+
+    <div class="<%= question.error && 'error' %>">
+      <% if question.error %>
+        <p class="error-message" id="current-error" role="alert">
+          <%= question.error %>
+        </p>
+      <% end %>
+
+      <%= render partial: question.partial_template_name, locals: { question: question } %>
+
+      <%= question.post_body %>
+    </div>
+  </div>
+</div>

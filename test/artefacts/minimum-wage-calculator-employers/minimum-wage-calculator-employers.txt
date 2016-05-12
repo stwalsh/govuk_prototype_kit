@@ -1,0 +1,12 @@
+Minimum wage calculator for employers
+
+Check if:
+
+- you’re paying a worker the National Minimum Wage
+- you’re paying a worker the National Living Wage
+- you owe your employee payments from previous years
+
+^Your employee must be at least 25 years old to get the national living wage.^
+
+
+

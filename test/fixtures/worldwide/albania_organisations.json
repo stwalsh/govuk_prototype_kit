@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-tirana",
+      "title": "British Embassy Tirana",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-11-26T12:28:59.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-tirana",
+      "details": {
+        "slug": "british-embassy-tirana"
+      },
+      "analytics_identifier": "WO55",
+      "offices": {
+        "main": {
+          "title": "British Embassy Tirana",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-tirana/office/british-embassy",
+          "details": {
+            "email": "",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<ul>\n  <li>Monday to Thursday, 8:30am to 1pm and 2pm to 5pm </li>\n  <li>Friday, 8:30am to 2:30pm</li>\n</ul>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 01 January</li>\n  <li>Friday 25 March</li>\n  <li>Monday 28 March</li>\n  <li>Monday 02 May</li>\n  <li>Friday 27 May</li>\n  <li>Monday 30 May</li>\n  <li>Tuesday 5 July</li>\n  <li>Monday 29 August</li>\n  <li>Monday 12 September</li>\n  <li>Wednesday 19 October</li>\n  <li>Monday 28 November</li>\n  <li>Tuesday 29 November</li>\n  <li>Monday 26 December</li>\n  <li>Monday 27 December</li>\n</ul>\n\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Rruga Skenderbeg 12",
+              "postal-code": "",
+              "locality": "Tirana",
+              "region": "",
+              "country-name": "Albania"
+            },
+            "label": {
+              "value": "Rruga Skenderbeg 12\nTirana\nAlbania"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+355 4 223 4973/4/5"
+            },
+            {
+              "label": "Fax",
+              "number": "+355 4 224 7697"
+            }
+          ],
+          "services": [
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 1,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/albania/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

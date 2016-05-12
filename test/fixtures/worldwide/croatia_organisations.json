@@ -1,0 +1,251 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-zagreb",
+      "title": "British Embassy Zagreb",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-03-12T09:45:42.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-zagreb",
+      "details": {
+        "slug": "british-embassy-zagreb"
+      },
+      "analytics_identifier": "WO44",
+      "offices": {
+        "main": {
+          "title": "British Embassy Zagreb",
+          "format": "World Office",
+          "updated_at": "2013-06-27T20:36:59.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-zagreb/office/british-embassy",
+          "details": {
+            "email": "british.embassyzagreb@fco.gov.uk",
+            "description": "\r\n",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<ul>\n  <li>Monday to Thursday, 8:30am to 5pm </li>\n  <li>Friday, 8:30am to 2pm</li>\n</ul>\n\n<h2 id=\"consular-section\">Consular Section</h2>\n<p>The Zagreb Consular Section office works by appointment only and is therefore not open to the public at all times. See more information on how to make an appointment <a href=\"https://www.gov.uk/notarial-and-documentary-services-guide-for-croatia\">here</a>.</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n<ul>\n  <li>Friday 1 January </li>\n  <li>Wednesday 06 January </li>\n  <li>Friday 25 March </li>\n  <li>Monday 28 March</li>\n  <li>Monday 02 May</li>\n  <li>Friday 27 May or Tuesday 31 May </li>\n  <li>Monday 30 May  </li>\n  <li>Wednesday 22 June  </li>\n  <li>Friday 05 August </li>\n  <li>Monday 15 August</li>\n  <li>Monday 29 August</li>\n  <li>Tuesday 1 November </li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December </li>\n</ul>\n\n<h2 id=\"getting-to-the-embassy\">Getting to the embassy</h2>\n\n<p>Our office is located at Ivana Lučića 4, a little more than 100 metres south of Vukovarska Street–the main avenue in the vicinity.</p>\n\n<h3 id=\"by-taxi\">By taxi</h3>\n\n<p>Zagreb has taxi stands all over the city and it is not difficult to find a free taxi at any time of day.</p>\n\n<h3 id=\"by-bus\">By bus</h3>\n\n<p>There are no bus services to the embassy.</p>\n\n<h3 id=\"by-tram\">By tram</h3>\n\n<p>There is excellent tram service in Zagreb. The line numbers that service the area of the embassy are 3, 5 and 13. The tram station closest to the embassy is “Sveučilišna aleja”. The price of a one-way ticket is 10 HRK (approx. £1).</p>\n\n<h2 id=\"parking\">Parking</h2>\n\n<p>In the immediate vicinity, there is plenty of public parking. The embassy is located in the II zone–the cost of parking is 5 HRK (£0.60) per hour.</p>\n\n<h2 id=\"security\">Security</h2>\n\n<p>We do our utmost to ensure a safe and secure environment for your visit. Please co-operate with the security team as they conduct their checks and controls, each of which should take only a few minutes. The security measures in place are for the benefit of all visitors and staff.</p>\n\n<p>Visitors to our office will have to go through the security checkpoint at the entrance. Mobile phones and electronic devices are to be checked in at reception.</p>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Ivana Lučića 4",
+              "postal-code": "10000",
+              "locality": "Zagreb",
+              "region": "",
+              "country-name": "Croatia"
+            },
+            "label": {
+              "value": "Ivana Lučića 4\n10000 Zagreb\nCroatia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Consular section",
+              "number": "zagreb.consular@fco.gov.uk"
+            },
+            {
+              "label": "Telephone",
+              "number": "+385 (1) 6009 100"
+            },
+            {
+              "label": "Fax",
+              "number": "+385 (1) 6009 111 "
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "British Consulate Split",
+            "format": "World Office",
+            "updated_at": "2013-06-27T20:37:29.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-zagreb/office/british-consulate",
+            "details": {
+              "email": "",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"public-holidays\">2016 public holidays</h2>\n<ul>\n  <li>Friday 1 January </li>\n  <li>Wednesday 06 January </li>\n  <li>Friday 25 March </li>\n  <li>Monday 28 March</li>\n  <li>Monday 02 May</li>\n  <li>Friday 27 May or Tuesday 31 May </li>\n  <li>Monday 30 May  </li>\n  <li>Wednesday 22 June  </li>\n  <li>Friday 05 August </li>\n  <li>Monday 15 August</li>\n  <li>Monday 29 August</li>\n  <li>Tuesday 1 November </li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December </li>\n</ul>\n\n</div>",
+              "type": "Consulate"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Obala Hrvatskog Narodnog Preporoda 10/III",
+                "postal-code": "21000",
+                "locality": "Split",
+                "region": "",
+                "country-name": "Croatia"
+              },
+              "label": {
+                "value": "Obala Hrvatskog Narodnog Preporoda 10/III\n21000 Split\nCroatia"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "+385 (1) 6009 100"
+              },
+              {
+                "label": "Fax",
+                "number": "+385 (1) 6009 298"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-croatia",
+      "title": "UK Trade & Investment Croatia",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-24T16:47:45.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-croatia",
+      "details": {
+        "slug": "uk-trade-investment-croatia"
+      },
+      "analytics_identifier": "WO174",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Croatia",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:53.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-croatia/office/uk-trade-investment-croatia",
+          "details": {
+            "email": "ukti@britishembassy.hr",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Zagreb",
+              "street-address": "Ivana Lucica 4",
+              "postal-code": "10 000 ",
+              "locality": "",
+              "region": "Zagreb ",
+              "country-name": "Croatia"
+            },
+            "label": {
+              "value": "British Embassy Zagreb\nIvana Lucica 4\n10 000  \nCroatia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+385 1 6009 100"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-consulate-split",
+      "title": "British Consulate Split",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-09-29T17:24:17.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-consulate-split",
+      "details": {
+        "slug": "british-consulate-split"
+      },
+      "analytics_identifier": "WO411",
+      "offices": {
+        "main": {
+          "title": "British Consulate Split",
+          "format": "World Office",
+          "updated_at": "2015-09-29T17:32:00.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-consulate-split/office/british-consulate-split",
+          "details": {
+            "email": "",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><p>The Split Consular Section office works by appointment only and is therefore not open to the public at all times. See more information on how to make an appointment <a href=\"https://www.gov.uk/government/world/organisations/british-consulate-split\">here</a>. Online booking is available for emergency travel documents only.</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n<ul>\n  <li>Friday 1 January </li>\n  <li>Wednesday 06 January </li>\n  <li>Friday 25 March </li>\n  <li>Monday 28 March</li>\n  <li>Monday 02 May</li>\n  <li>Friday 27 May or Tuesday 31 May </li>\n  <li>Monday 30 May  </li>\n  <li>Wednesday 22 June  </li>\n  <li>Friday 05 August </li>\n  <li>Monday 15 August</li>\n  <li>Monday 29 August</li>\n  <li>Tuesday 1 November </li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December </li>\n</ul>\n</div>",
+            "type": "Consulate"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Obala Hrvatskog Narodnog Preporoda \r\n10/III\r\n",
+              "postal-code": "21000",
+              "locality": "Split",
+              "region": "",
+              "country-name": "Croatia"
+            },
+            "label": {
+              "value": "Obala Hrvatskog Narodnog Preporoda \r\n10/III\r\n21000 Split\nCroatia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+385 (1) 6009 100"
+            },
+            {
+              "label": "Fax",
+              "number": "+385 (1) 6009 298"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 3,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/croatia/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

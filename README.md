@@ -1,39 +1,99 @@
-# GOV.UK Prototype kit
+# Smart Answers
 
-## News
+> Smart answers are a great tool for content designers to present complex information in a quick and simple way. Defining what they are – decision trees? calculators? tools? is immaterial – what they do is provide a reusable technical framework to build a quick and simple answer to a complex question.
 
-**Upgrading from version 1 to 2:** the latest version of the kit (2.0.0 and later) is not compatible with previous versions. If you update your old prototypes you'll need to [convert them as well](https://github.com/alphagov/govuk_prototype_kit/blob/master/docs/updating-the-kit.md).
+Read more in [Lisa Scott's GDS blog post](https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/).
 
-## About the prototype kit
+## Screenshots
 
-The prototype kit provides a simple way to make interactive prototypes that look like pages on GOV.UK. These prototypes can be used to show ideas to people you work with, and to do user research.
+![Student Finance Forms screenshot](./doc/assets/govuk-student-finance-forms.png)
 
-Read the [project principles](docs/principles.md).
+## Live examples
 
-> You must protect user privacy at all times, even when using prototypes. Prototypes made with the kit look like GOV.UK, but do not have the same security provisions. Always make sure you are handling user data appropriately. 
+* [Look up Meursing code](https://www.gov.uk/additional-commodity-code)
+* [Maternity and paternity calculator for employers](https://www.gov.uk/maternity-paternity-calculator)
+* [Towing: licence and age requirements](https://www.gov.uk/towing-rules)
 
-## Installation instructions
+## Nomenclature
 
-- [Installation guide for new users (non technical)](docs/install/introduction.md)
-- [Installation guide for developers (technical)](docs/developer-install-instructions.md)
+* **Smart Answer**: The flow, questions and outcomes.
 
-## Guides
+* **Flow**: Defines the questions, outcomes and the rules for navigating between them.
 
-1. [Setting up git](docs/guides/setting-up-git.md)
-1. [Publishing on the web (Heroku)](docs/guides/publishing-on-heroku.md)
+* **Landing page**: Contains a description of the Smart Answer and the "Start now" button that leads to the first question.
 
-## Other documentation
+* **Question page**: Contains an individual question that's asked in order to help arrive at at an outcome.
 
-- [Prototype kit principles](docs/principles.md)
-- [Making pages](docs/making-pages.md)
-- [Writing CSS](docs/writing-css.md)
-- [Updating the kit to the latest version](docs/updating-the-kit.md)
-- [Tips and tricks](docs/tips-and-tricks.md)
-- [Creating routes (server-side programming)](docs/creating-routes.md)
+* **Outcome page**: Contains the result of the Smart Answer based on responses to individual questions.
 
-## Community
+## Technical documentation
 
-We have two Slack channels for the Prototype kit. You'll need a government email address to join them.
+This is a Ruby on Rails application that contains:
 
-* [Slack channel for users of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit/)
-* [Slack channel for developers of the prototype kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit-dev/)
+* A Rails application to serve Smart Answers
+* A DSL for creating Smart Answers
+* The Smart Answers that appear on GOV.UK
+
+**NOTE.** This application doesn't use a database and as such it [does not include the ActiveRecord Railtie in application.rb](https://github.com/alphagov/smart-answers/blob/4eb1b80a698e6835e745c4ad1954a3892e929b64/config/application.rb#L3).
+
+### Dependencies
+
+* [alphagov/static](https://github.com/alphagov/static): provides static assets (JS/CSS) and the GOV.UK templates.
+* [nodejs/node](https://github.com/nodejs/node): provides JS runtime for precompiling assets for deployment
+
+### Running the application
+
+See:
+
+* [Developing with the GDS development VM](doc/developing-using-vm.md)
+* [Developing without the GDS development VM](doc/developing-without-vm.md)
+
+### Running the test suite
+
+    $ bundle exec rake
+
+### Smart Answers
+
+* [File structure](doc/file-structure.md)
+* [Flow definition](doc/flow-definition.md)
+* [Question types](doc/question-types.md)
+* [Next node rules](doc/next-node-rules.md)
+* [Storing data](doc/storing-data.md)
+* [ERB templates](doc/erb-templates.md)
+  * [Landing page template](doc/landing-page-template.md)
+  * [Question templates](doc/question-templates.md)
+  * [Outcome templates](doc/outcome-templates.md)
+
+### Smart Answer flow development
+
+* [Development principles](doc/development-principles.md)
+* [Deploying changes for Factcheck](doc/factcheck.md)
+* [Merging pull requests from the content team](doc/merging-content-prs.md)
+* [Refactoring existing Smart Answers](doc/refactoring.md)
+* Adding [content-ids](doc/content-ids.md) to Smart Answers
+* [Creating a new Smart Answer](doc/creating-a-new-smart-answer.md)
+* [Archiving a Smart Answer](doc/archiving.md)
+* [Updating worldwide fixture data](doc/updating-worldwide-fixture-data.md)
+
+### Smart Answers app development
+
+* [Common errors you might run into during development](doc/common-errors.md)
+* [Environments](doc/environments.md)
+* [Continuous integration](doc/continuous-integration.md)
+* [Describing pull requests](doc/pull-requests.md)
+* [Deploying](doc/deploying.md)
+* [Handling exceptions with Errbit](doc/errbit.md)
+* [Rubocop](doc/rubocop.md)
+* [Testing](doc/testing.md)
+* [New-style Testing](doc/new-style-testing.md)
+* [Issues and Todo](https://trello.com/b/7HgyU4hy/smart-answers-tasks)
+
+### Debugging
+
+* [Viewing landing pages and outcomes as Govspeak](doc/viewing-templates-as-govspeak.md)
+* [Viewing state of a Smart Answer](doc/viewing-state.md)
+* [Visualising flows](doc/visualising-flows.md)
+
+## Licence
+
+[MIT License](./LICENSE.md)

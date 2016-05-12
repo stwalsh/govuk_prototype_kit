@@ -1,0 +1,399 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-prague",
+      "title": "British Embassy Prague",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-17T09:32:46.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague",
+      "details": {
+        "slug": "british-embassy-prague"
+      },
+      "analytics_identifier": "WO35",
+      "offices": {
+        "main": {
+          "title": "British Embassy Prague",
+          "format": "World Office",
+          "updated_at": "2013-06-27T20:40:42.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague/office/british-embassy",
+          "details": {
+            "email": "ukinczechrepublic@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<p>Monday to Friday, 9am to 5pm</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January (New Year’s Day)</li>\n  <li>Friday 25 March (Good Friday)</li>\n  <li>Monday 28 March (Easter Monday)</li>\n  <li>Monday 2 May (Early May Bank Holiday)</li>\n  <li>Monday 30 May (Spring Bank Holiday)</li>\n  <li>Tuesday 5 July (Cyril &amp; Methodius Day)</li>\n  <li>Wednesday 6 July (Jan Hus Stake Day)</li>\n  <li>Monday 29 August (Summer Bank Holiday)</li>\n  <li>Wednesday 28 September (Czech National Holiday)</li>\n  <li>Friday 28 October (State Day - 1918 Czechoslovak Republic)</li>\n  <li>Thursday 17 November (Velvet Revolution Day)</li>\n  <li>Monday 26 December (St. Stephen Day / Boxing day)</li>\n  <li>Tuesday 27 December (Christmas Day)  </li>\n</ul>\n\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Thunovska 14\r\n118 00",
+              "postal-code": "",
+              "locality": "Prague",
+              "region": "",
+              "country-name": "Czech Republic"
+            },
+            "label": {
+              "value": "Thunovska 14\r\n118 00\n Prague\nCzech Republic"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone ",
+              "number": "+420 257 40 2111"
+            },
+            {
+              "label": "Fax",
+              "number": "+420 257 40 2296"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "British Trade and Investment",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:52.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague/office/british-trade-and-investment",
+            "details": {
+              "email": "tradeinvest.pragc@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<ul>\n  <li>Monday to Thursday, 8:30am to 5pm </li>\n  <li>Friday, 8:30am to 4pm</li>\n</ul>\n\n<h2 id=\"public-holidays\">2014 public holidays</h2>\n\n<ul>\n  <li>Wednesday 1 January</li>\n  <li>Friday 18 April</li>\n  <li>Monday 21 April</li>\n  <li>Thursday 1 May</li>\n  <li>Thursday 8 May</li>\n  <li>Monday 26 May</li>\n  <li>Tuesday 17 June</li>\n  <li>Monday 25 August</li>\n  <li>Tuesday 28 October</li>\n  <li>Wednesday 24 December</li>\n  <li>Thursday 25 December</li>\n  <li>Friday 26 December</li>\n</ul>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Thunovska 14\r\n118 00  ",
+                "postal-code": "",
+                "locality": "Prague",
+                "region": "",
+                "country-name": "Czech Republic"
+              },
+              "label": {
+                "value": "Thunovska 14\r\n118 00  \n Prague\nCzech Republic"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone: ",
+                "number": "+420 257 402 700"
+              },
+              {
+                "label": "Fax: ",
+                "number": "+420 257 40 2296"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Press Office (media enquiries only)",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:52.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague/office/press-office-media-enquiries-only",
+            "details": {
+              "email": "Jan.Simral@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<p>Monday to Friday, 9am to 5pm</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January (New Year’s Day)</li>\n  <li>Friday 25 March (Good Friday)</li>\n  <li>Monday 28 March (Easter Monday)</li>\n  <li>Monday 2 May (Early May Bank Holiday)</li>\n  <li>Monday 30 May (Spring Bank Holiday)</li>\n  <li>Tuesday 5 July (Cyril &amp; Methodius Day)</li>\n  <li>Wednesday 6 July (Jan Hus Stake Day)</li>\n  <li>Monday 29 August (Summer Bank Holiday)</li>\n  <li>Wednesday 28 September (Czech National Holiday)</li>\n  <li>Friday 28 October (State Day - 1918 Czechoslovak Republic)</li>\n  <li>Thursday 17 November (Velvet Revolution Day)</li>\n  <li>Monday 26 December (St. Stephen Day / Boxing day)</li>\n  <li>Tuesday 27 December (Christmas Day)  </li>\n</ul>\n\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Thunovska 14\r\n118 00",
+                "postal-code": "",
+                "locality": "Prague",
+                "region": "",
+                "country-name": "Czech Republic"
+              },
+              "label": {
+                "value": "Thunovska 14\r\n118 00\n Prague\nCzech Republic"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone: ",
+                "number": "+420 257 402 295"
+              },
+              {
+                "label": "Fax: ",
+                "number": "+420 257 40 2296"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Consular section",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:52.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague/office/consular-and-visa-section",
+            "details": {
+              "email": "prague.consular@fco.gov.uk ",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<h3 id=\"consular-section\">Consular section</h3>\n<ul>\n  <li>Monday to Friday, 9am to 12am (by appointment only)</li>\n</ul>\n\n<h3 id=\"visa-section\">Visa Section</h3>\n\n<h4 id=\"from-19-march-2014-the-british-embassy-no-longer-provides-visa-services\">From 19 March 2014 the British Embassy no longer provides visa services.</h4>\n<ul>\n  <li>For visa information please follow <a rel=\"external\" href=\"http://www.tpcontact.co.uk/\">Teleperformance Website</a>\n</li>\n</ul>\n\n<h2 id=\"public-holidays\">2014 public holidays</h2>\n\n<ul>\n  <li>Wednesday 1 January</li>\n  <li>Friday 18 April</li>\n  <li>Monday 21 April</li>\n  <li>Thursday 1 May</li>\n  <li>Thursday 8 May</li>\n  <li>Monday 26 May</li>\n  <li>Friday 27 June</li>\n  <li>Monday 25 August</li>\n  <li>Tuesday 28 October</li>\n  <li>Wednesday 24 December</li>\n  <li>Thursday 25 December</li>\n  <li>Friday 26 December</li>\n</ul>\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Thunovska 14\r\n118 00",
+                "postal-code": "",
+                "locality": "Prague",
+                "region": "",
+                "country-name": "Czech Republic"
+              },
+              "label": {
+                "value": "Thunovska 14\r\n118 00\n Prague\nCzech Republic"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Fax: ",
+                "number": "+420 257 402 280 "
+              }
+            ],
+            "services": [
+              {
+                "title": "Lost or Stolen Passports",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Transferring funds for prisoners / for financial assistance service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Births and Deaths registration service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Notarial services",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Citizenship Ceremony service",
+                "type": "Documentary Services"
+              }
+            ]
+          },
+          {
+            "title": "Science and Innovation section",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:52.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-prague/office/science-and-innovation-section",
+            "details": {
+              "email": "Otakar.Fojt@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n\n<p>Monday to Friday, 9am to 5pm</p>\n\n<h2 id=\"public-holidays\">2016 public holidays</h2>\n\n<ul>\n  <li>Friday 1 January (New Year’s Day)</li>\n  <li>Friday 25 March (Good Friday)</li>\n  <li>Monday 28 March (Easter Monday)</li>\n  <li>Monday 2 May (Early May Bank Holiday)</li>\n  <li>Monday 30 May (Spring Bank Holiday)</li>\n  <li>Tuesday 5 July (Cyril &amp; Methodius Day)</li>\n  <li>Wednesday 6 July (Jan Hus Stake Day)</li>\n  <li>Monday 29 August (Summer Bank Holiday)</li>\n  <li>Wednesday 28 September (Czech National Holiday)</li>\n  <li>Friday 28 October (State Day - 1918 Czechoslovak Republic)</li>\n  <li>Thursday 17 November (Velvet Revolution Day)</li>\n  <li>Monday 26 December (St. Stephen Day / Boxing day)</li>\n  <li>Tuesday 27 December (Christmas Day)  </li>\n</ul>\n\n</div>",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Thunovska 14\r\n118 00",
+                "postal-code": "",
+                "locality": "Prague 1",
+                "region": "",
+                "country-name": "Czech Republic"
+              },
+              "label": {
+                "value": "Thunovska 14\r\n118 00\n Prague 1\nCzech Republic"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone: ",
+                "number": "+420 257 402 315"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-czech-republic",
+      "title": "UK Trade & Investment Czech Republic",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-10T15:07:16.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-czech-republic",
+      "details": {
+        "slug": "uk-trade-investment-czech-republic"
+      },
+      "analytics_identifier": "WO222",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Czech Republic",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-czech-republic/office/uk-trade-investment-czech-republic",
+          "details": {
+            "email": "tradeinvest.pragc@fco.gov.uk",
+            "description": "Office hours\r\nMonday to Thursday, 8:30am to 5pm\r\nFriday, 8:30am to 4pm",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Prague",
+              "street-address": "Thunovska 14",
+              "postal-code": "11800",
+              "locality": "",
+              "region": "Prague",
+              "country-name": "Czech Republic"
+            },
+            "label": {
+              "value": "British Embassy Prague\nThunovska 14\n11800 \nCzech Republic"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+420 257 402 700"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-science-and-innovation-network",
+      "title": "UK Science and Innovation Network",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-11-14T06:13:09.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-science-and-innovation-network",
+      "details": {
+        "slug": "uk-science-and-innovation-network"
+      },
+      "analytics_identifier": "WO363",
+      "offices": {
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for Business, Innovation & Skills",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+          "details": {
+            "acronym": "BIS"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-science-innovation-network-in-the-czech-republic",
+      "title": "UK Science & Innovation Network in the Czech Republic",
+      "format": "Worldwide Organisation",
+      "updated_at": "2016-03-02T13:54:21.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-science-innovation-network-in-the-czech-republic",
+      "details": {
+        "slug": "uk-science-innovation-network-in-the-czech-republic"
+      },
+      "analytics_identifier": "WO458",
+      "offices": {
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for Business, Innovation & Skills",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+          "details": {
+            "acronym": "BIS"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 4,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/czech-republic/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

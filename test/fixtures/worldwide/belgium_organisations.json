@@ -1,0 +1,478 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-brussels",
+      "title": "British Embassy Brussels",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-05-09T14:02:08.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-brussels",
+      "details": {
+        "slug": "british-embassy-brussels"
+      },
+      "analytics_identifier": "WO32",
+      "offices": {
+        "main": {
+          "title": "British Embassy Brussels",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-brussels/office/british-embassy",
+          "details": {
+            "email": "public.brussels@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"opening-hours\">Opening hours</h2>\n<p>Monday to Friday, 9am to 5pm </p>\n\n<h2 id=\"public-holidays\">2016 Public holidays</h2>\n\n<p>The embassy will be closed on the following days in 2016:</p>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Friday 25 March </li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Thursday 5 May</li>\n  <li>Monday 16 May     </li>\n  <li>Thursday 21 July</li>\n  <li>Monday 15 August</li>\n  <li>Tuesday 1 November</li>\n  <li>Friday 11 November</li>\n  <li>Friday 23 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"getting-to-the-embassy\">Getting to the embassy</h2>\n\n<h4 id=\"by-public-transport\">By public transport</h4>\n<p>The nearest Metro stop is Schuman, on underground line 1 (Erasmus-Stockel) and 5 (Gare de l’Ouest-Hermann-Debroux). Buses number 12 and 21 (to and from Brussels national airport), as well as 22, 36, 60, 79, 344 and 345 (De Lijn) and E (TEC) also stop near our building. You can find further information on the local transportation <a rel=\"external\" href=\"http://www.stib.be/index.htm?l=en\" title=\"STIB\">website</a>.</p>\n\n<h4 id=\"by-car-bicycle-or-taxi\">By car, bicycle or taxi</h4>\n<p>Parking can be difficult to find around Schuman. A excellent alternative is to use the city bicycle hire scheme <a rel=\"external\" href=\"http://en.villo.be\" title=\"Villo!\">Villo!</a>. There are several Villo! bicycle stations nearby. Alternatively, you can also come by taxi.</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n<p>The embassy is committed to enabling disabled visitors to carry out their work in Belgium in an effective and professional way. The embassy is ready to provide support to disabled visitors. Support could include, but is not limited to, meeting disabled visitors at the airport or train-station, arranging transport, accompanying visitors to meetings or secretarial assistance with writing and distributing reports. Every individual’s needs will be different. In order to ensure that we can make arrangements to meet your requirements, please contact the embassy Visits team (tel: +32 2 287 8305) at least 48 hours before you travel.</p>\n\n<h2 id=\"security\">Security</h2>\n<p>All visitors will have to go through the security checkpoint at the entrance. Please co-operate with the security team as they conduct their checks which should only take a few minutes. The security measures in place are for the benefit of visitors and staff.</p>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Avenue d’Auderghem 10",
+              "postal-code": "1040",
+              "locality": "Brussels",
+              "region": "",
+              "country-name": "Belgium"
+            },
+            "label": {
+              "value": "Avenue d’Auderghem 10\n1040 Brussels\nBelgium"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone ",
+              "number": "(+32) 2 287 62 11"
+            },
+            {
+              "label": "Fax",
+              "number": "(+32) 2 287 62 50"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "British Consulate Brussels",
+            "format": "World Office",
+            "updated_at": "2013-06-27T20:30:48.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-brussels/office/british-consulate",
+            "details": {
+              "email": "consularsection.brussels@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h3 id=\"opening-hours\">Opening hours</h3>\n\n<h3 id=\"by-appointment-only\">By appointment only</h3>\n\n<ul>\n  <li>\n    <p>Monday, Tuesday, Thursday, and Friday, 09:00 to 12:30</p>\n  </li>\n  <li>\n    <p>Outside these opening hours a Consular Emergency Service is in operation 24/7 by calling +32 2 287 6211</p>\n  </li>\n</ul>\n\n<h3 id=\"public-holidays\">2016 Public holidays</h3>\n\n<p>The British Consulate Brussels will be closed on the following days in 2016:</p>\n\n<ul>\n  <li>Friday 1 January</li>\n  <li>Friday 25 March </li>\n  <li>Monday 28 March</li>\n  <li>Monday 2 May</li>\n  <li>Thursday 5 May</li>\n  <li>Monday 16 May     </li>\n  <li>Thursday 21 July</li>\n  <li>Monday 15 August</li>\n  <li>Tuesday 1 November</li>\n  <li>Friday 11 November</li>\n  <li>Friday 23 December</li>\n  <li>Monday 26 December</li>\n  <li>Tuesday 27 December</li>\n</ul>\n\n<h2 id=\"getting-to-the-british-consulate-general\">Getting to the British Consulate General</h2>\n\n<h3 id=\"by-public-transport\">By public transport</h3>\n\n<h4 id=\"by-metro\">By Metro</h4>\n\n<p>The nearest Metro stop is Schuman, on underground line 1 (Erasmus-Stockel) and 5 (Gare de l’Ouest-Hermann-Debroux). </p>\n\n<h4 id=\"by-bus\">By Bus</h4>\n<p>Buses number 12 and 21 (to and from Brussels national airport), as well as 22, 36, 60, 79, 344 and 345 (De Lijn) and E (TEC) also stop near our building. You can find further information on the local transportation on the following links below:</p>\n\n<p><a rel=\"external\" href=\"http://www.stib.be/index.htm?l=en\">www.stib.be</a></p>\n\n<p><a rel=\"external\" href=\"http://www.delijn.be\">http://www.delijn.be</a></p>\n\n<p><a rel=\"external\" href=\"http://www.infotec.be\">http://www.infotec.be</a></p>\n\n<p>On the above links there are route planners in English, you have to click on the EN link.</p>\n\n<h4 id=\"by-train\">By train</h4>\n<p>The following link will provide you with the relevant information about the <a rel=\"external\" href=\"http://www.belgianrail.be\">Belgian Railways</a>. The closest train station is Schuman. </p>\n\n<h4 id=\"by-tram\">By Tram</h4>\n<p>Closest Tram line is Merode or Montgomery after which you will need to take the metro 1 direction Gare de l’Ouest / Wetstation stop Schuman</p>\n\n<h4 id=\"by-car-bicycle-or-taxi\">By car, bicycle or taxi</h4>\n<p>Parking can be difficult to find around Schuman. A excellent alternative is to use the city bicycle hire scheme <a rel=\"external\" href=\"http://en.villo.be\" title=\"Villo!\">Villo!</a>. There are several Villo! bicycle stations nearby. Alternatively, you can also come by taxi.</p>\n\n<h3 id=\"from-the-the-two-national-airports\">From the the two National Airports</h3>\n\n<h4 id=\"from-brussels-national-airport\">From Brussels National Airport</h4>\n<p>Brussels National Airport - British Consulate-General by taxi is about 12 kms and costs between 40-60 euros and takes about 30 minutes</p>\n\n<p>Brussels National Airport – British Consulate-General by bus – Take bus 12 direction Brussels City costs around 5 euros and takes about 50 minutes</p>\n\n<p>Brussels National Airport – British Consulate-General by train – Take train to Brussels-Schuman stop costs around 6 euros and takes about 30 minutes </p>\n\n<h4 id=\"from-brussels-south-charleroi-airport\">From Brussels South (Charleroi) Airport</h4>\n<p>Brussels South Charleroi Airport – British Consulate-General by taxi is about 65 kms and costs between 60-100 euros (ask driver for price before entering the taxi) </p>\n\n<p>Brussels South Charleroi Airport – British Consulate-General by bus – Take the airport bus to Brussels-Midi/Zuid which costs around 15 euros and then take the metro to Schuman</p>\n\n<p>Brussels South Charleroi Airport – British Consulate-General by train – Take bus from airport to station costs around 3 euros – take train to Brussels-Midi/Zuid costs around 10 euros and then take the metro to Schuman</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n<p>The embassy is committed to enabling disabled visitors to carry out their work in Belgium in an effective and professional way. The embassy is ready to provide support to disabled visitors. Support could include, but is not limited to, meeting disabled visitors at the airport or train-station, arranging transport, accompanying visitors to meetings or secretarial assistance with writing and distributing reports. Every individual’s needs will be different. In order to ensure that we can make arrangements to meet your requirements, please contact the Consulate (tel: +32 2 287 6211) at least 48 hours before you travel.</p>\n\n<h2 id=\"security\">Security</h2>\n<p>All visitors will have to go through the security checkpoint at the entrance. Please co-operate with the security team as they conduct their checks which should only take a few minutes. The security measures in place are for the benefit of visitors and staff.</p>\n\n</div>",
+              "type": "Consulate"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "Avenue d'Auderghem 10",
+                "postal-code": "1040 ",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Avenue d'Auderghem 10\n1040  Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "+ 32 2 287 62 11 - 24/7"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Notarial services",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Transferring funds for prisoners / for financial assistance service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Citizenship Ceremony service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Lost or Stolen Passports",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Registrations of Marriage and Civil Partnerships",
+                "type": "Documentary Services"
+              }
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-belgium",
+      "title": "UK Trade & Investment Belgium",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-07-10T13:47:30.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium",
+      "details": {
+        "slug": "uk-trade-investment-belgium"
+      },
+      "analytics_identifier": "WO132",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Belgium",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:53.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/uk-trade-investment-belgium",
+          "details": {
+            "email": "UKTIBelgium@mobile.ukti.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy Brussels",
+              "street-address": "10 Avenue d’Auderghem/Oudergemselaan",
+              "postal-code": "B-1040",
+              "locality": "",
+              "region": "Brussels",
+              "country-name": "Belgium"
+            },
+            "label": {
+              "value": "British Embassy Brussels\n10 Avenue d’Auderghem/Oudergemselaan\nB-1040 \nBelgium"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Enquiries",
+              "number": "+32 2 287 62 11"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "Senior Trade Adviser",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:53.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/senior-trade-adviser",
+            "details": {
+              "email": "filip.vankerckhoven@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Filip Van Kerckhoven",
+                "street-address": "10 Avenue d’Auderghem/Oudergemselaan",
+                "postal-code": "B-1040",
+                "locality": "Brussels ",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Filip Van Kerckhoven\n10 Avenue d’Auderghem/Oudergemselaan\nB-1040 Brussels \nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 2 287 62 34"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Senior Trade & Investment Adviser ",
+            "format": "World Office",
+            "updated_at": "2013-06-24T12:28:04.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/senior-trade-investment-adviser",
+            "details": {
+              "email": "gert.wauters@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Gert Wauters",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan",
+                "postal-code": "B-1040",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Gert Wauters\n10 Avenue d'Auderghem/Oudergemselaan\nB-1040 Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 62 24 "
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Senior Trade Adviser",
+            "format": "World Office",
+            "updated_at": "2013-06-24T12:36:02.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/senior-trade-adviser--3",
+            "details": {
+              "email": "nadine.vandenbroucke@mobile.ukti.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Nadine Vandenbroucke",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan ",
+                "postal-code": "B-1040",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Nadine Vandenbroucke\n10 Avenue d'Auderghem/Oudergemselaan \nB-1040 Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 62 33"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Trade and Investment Adviser",
+            "format": "World Office",
+            "updated_at": "2013-06-24T12:43:28.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/trade-investment-adviser",
+            "details": {
+              "email": "laura.reynders@mobile.ukti.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Laura Reynders",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan ",
+                "postal-code": "B-1040",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Laura Reynders\n10 Avenue d'Auderghem/Oudergemselaan \nB-1040 Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 6254"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Head of UKTI BeLux",
+            "format": "World Office",
+            "updated_at": "2013-06-24T14:36:40.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/head-of-uk-trade-investment-belgium-luxembourg",
+            "details": {
+              "email": "inge.haeldermans@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Inge Haeldermans",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan ",
+                "postal-code": "B-1040",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Inge Haeldermans\n10 Avenue d'Auderghem/Oudergemselaan \nB-1040 Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 62 76 "
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Regional Director Benelux",
+            "format": "World Office",
+            "updated_at": "2013-06-24T14:38:25.000+01:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/regional-director-benelux",
+            "details": {
+              "email": "sabine.platteuw@fco.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Sabine Platteuw",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan",
+                "postal-code": "B-1040",
+                "locality": "Brussels",
+                "region": "",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Sabine Platteuw\n10 Avenue d'Auderghem/Oudergemselaan\nB-1040 Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 82 46"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Senior Trade Adviser",
+            "format": "World Office",
+            "updated_at": "2014-03-12T14:18:41.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/senior-trade-officer",
+            "details": {
+              "email": "sophie.beyers@mobile.ukti.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Sophie Beyers",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan",
+                "postal-code": "B-1040",
+                "locality": "",
+                "region": "Brussels",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Sophie Beyers\n10 Avenue d'Auderghem/Oudergemselaan\nB-1040 \nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct Line",
+                "number": "+32 (0)2 287 6275"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "Senior Investment Officer",
+            "format": "World Office",
+            "updated_at": "2014-12-19T14:06:02.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-belgium/office/senior-investment-adviser",
+            "details": {
+              "email": "amy.dalton@mobile.ukti.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "Amy Dalton",
+                "street-address": "10 Avenue d'Auderghem/Oudergemselaan",
+                "postal-code": "B-1040 ",
+                "locality": "Brussels",
+                "region": "Brussels",
+                "country-name": "Belgium"
+              },
+              "label": {
+                "value": "Amy Dalton\n10 Avenue d'Auderghem/Oudergemselaan\nB-1040  Brussels\nBelgium"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Direct line",
+                "number": "+32 (0)2 287 82 58"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/belgium/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

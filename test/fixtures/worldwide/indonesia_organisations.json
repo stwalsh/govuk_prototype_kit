@@ -1,0 +1,442 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-jakarta",
+      "title": "British Embassy Jakarta",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-12-17T06:44:14.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-jakarta",
+      "details": {
+        "slug": "british-embassy-jakarta"
+      },
+      "analytics_identifier": "WO301",
+      "offices": {
+        "main": {
+          "title": "British Embassy Jakarta",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-jakarta/office/british-embassy-jakarta",
+          "details": {
+            "email": "Jakarta.mcs@fco.gov.uk",
+            "description": "Opening hours (local time):\r\nMonday to Thursday: 07:30 - 16:00\r\nFriday: 07:30 - 13:00\r\n\r\nOpening hours (GMT):\r\nMonday to Thursday: 01:30 - 10:00\r\nFriday: 01:30 - 07:00",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"disabled-access\">Disabled access</h2>\n<p>The Foreign &amp; Commonwealth Office and the British Embassy in Jakarta are keen to ensure that their buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes, however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled staff and visitors, we have set out below details of disabled access at the Embassy. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General Physical Access</h3>\n<p>There is a disabled access through the pedestrian entrance.  If you require assistance, please telephone us in advance of your visit so that we can ensure that we are able to provide access for you and allow your vehicle access to the Embassy Compound (Please call +62 (021) 2356 5200 and ask for the Deputy Security Manager).  Wheelchair access to the Embassy is via the front door.  The Embassy only has the facility to allow a wheelchair with a maximum width of 750mm.  </p>\n\n<ul>\n  <li>\n    <p>Steps and Staircases: all internal staircases have hand rails on both sides.</p>\n  </li>\n  <li>\n    <p>Lifts: There is a lift to all floors of the Embassy.</p>\n  </li>\n  <li>\n    <p>Toilets: a disabled toilet is located on the ground floor of the Embassy in Management Section.</p>\n  </li>\n  <li>\n    <p>Parking: a disabled parking spot is available by arrangement.</p>\n  </li>\n  <li>\n    <p>Floor coverings: floor coverings are safe and even.</p>\n  </li>\n  <li>\n    <p>Doors: if necessary, the staff can assist in opening doors.</p>\n  </li>\n  <li>\n    <p>Lighting: adequate throughout.</p>\n  </li>\n  <li>\n    <p>Telephones: accessible to wheelchair users.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for Visually Impaired Visitors</h3>\n<ul>\n  <li>\n    <p>Signs: generally clear and easy to read.</p>\n  </li>\n  <li>\n    <p>Guide dogs: guide dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for Deaf/Hard of Hearing Visitors</h3>\n<ul>\n  <li>\n    <p>Microphones: are installed in all Reception areas.</p>\n  </li>\n  <li>\n    <p>Hearing dogs: hearing dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"contact-us\">Contact Us</h3>\n<p>If you need to visit us or use our services and feel that they may be inaccessible to you, please contact Deputy Security Manager, or Office Manager, who will find an alternative way of providing access for you.</p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n<p>British Embassy Official Holidays in 2016:</p>\n\n<ul>\n  <li>\n    <p>Friday, 1 January: New Year’s Day (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 8 February: Chinese New Year (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 9 March: Nyepi (Indonesian Holiday) </p>\n  </li>\n  <li>\n    <p>Friday, 25 March: Good Friday (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 28 March: Easter Monday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 6 May: Isra Miraj (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 30 May: Spring Bank Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 31 May: Queen’s Birthday Privilege Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 6 July: Eid Idul-Fitri (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Thursday, 7 July: Eid Idul-Fitri in lieu of 18 July (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 17 August: Independence Day (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 12 September: Eid Idul-Adha (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 26 December: Christmas Holiday (Indonesian and UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 27 December: In lieu of Boxing Day (UK Holiday)</p>\n  </li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "British Embassy Jakarta\r\nJl. Patra Kuningan Raya Blok L5-6\r\n",
+              "postal-code": "12950",
+              "locality": "Jakarta",
+              "region": "",
+              "country-name": "Indonesia"
+            },
+            "label": {
+              "value": "British Embassy Jakarta\r\nJl. Patra Kuningan Raya Blok L5-6\r\nJakarta\n 12950\nIndonesia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "(+62) (21) 2356 5200"
+            },
+            {
+              "label": "Fax",
+              "number": "(+62) (21) 2356 5351"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Citizenship Ceremony service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Legalisation Service",
+              "type": "Other Services"
+            },
+            {
+              "title": "Overseas Passports Service",
+              "type": "Other Services"
+            }
+          ]
+        },
+        "other": [
+          {
+            "title": "Consular services (Jakarta)",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:54.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-jakarta/office/passport-and-consular-services-jakarta",
+            "details": {
+              "email": "Consulate.Jakarta@fco.gov.uk ",
+              "description": "Opening hours (local time):\r\nMonday, Tuesday, Thursday and Friday: 08:30 - 12.00\r\n\r\nAccess by appointment only.",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"making-a-consular-appointment\">Making a consular appointment</h2>\n<p>Our embassy and consulate deal with a large number of urgent cases each year. Before contacting the embassy or consulate with non-urgent enquiries, please read our <a href=\"https://www.gov.uk/government/publications/support-for-british-nationals-abroad-a-guide\" title=\"Support for British nationals abroad: a guide\">Support for British nationals abroad: a guide</a> to see if the information you need is there. If you still cannot find the information you need, you can contact our Consular team at <a href=\"mailto:consulate.jakarta@fco.gov.uk\" title=\"consulate.jakarta@fco.gov.uk\">consulate.jakarta@fco.gov.uk</a>. To make an appointment with our Consular Team for an Emergency Travel Document please click <a href=\"https://www.gov.uk/government/world/organisations/british-embassy-jakarta\">here</a>. To make an appointment with our Consular Team for any other Consular Service please click <a href=\"https://www.gov.uk/notarial-and-documentary-services-guide-for-indonesia\">here</a>.</p>\n\n<h2 id=\"disabled-access\">Disabled access</h2>\n<p>The Foreign &amp; Commonwealth Office and the British Embassy in Jakarta are keen to ensure that their buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes, however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled staff and visitors, we have set out below details of disabled access at the Embassy. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General Physical Access</h3>\n<p>There is a disabled access through the pedestrian entrance.  If you require assistance, please telephone us in advance of your visit so that we can ensure that we are able to provide access for you and allow your vehicle access to the Embassy Compound (Please call +62 (021) 2356 5200 and ask for the Deputy Security Manager).  Wheelchair access to the Embassy is via the front door.  The Embassy only has the facility to allow a wheelchair with a maximum width of 750mm.  There is access to the Consulate and Visa section located in the adjacent Deutsche Bank Building.</p>\n\n<ul>\n  <li>\n    <p>Steps and Staircases: all internal staircases have hand rails on both sides.</p>\n  </li>\n  <li>\n    <p>Lifts: There is a lift to all floors of the Embassy.</p>\n  </li>\n  <li>\n    <p>Toilets: a disabled toilet is located on the ground floor of the Embassy in Management Section.</p>\n  </li>\n  <li>\n    <p>Parking: a disabled parking spot is available by arrangement.</p>\n  </li>\n  <li>\n    <p>Floor coverings: floor coverings are safe and even.</p>\n  </li>\n  <li>\n    <p>Doors: if necessary, the staff can assist in opening doors.</p>\n  </li>\n  <li>\n    <p>Lighting: adequate throughout.</p>\n  </li>\n  <li>\n    <p>Telephones: accessible to wheelchair users.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for Visually Impaired Visitors</h3>\n<ul>\n  <li>\n    <p>Signs: generally clear and easy to read.</p>\n  </li>\n  <li>\n    <p>Guide dogs: guide dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for Deaf/Hard of Hearing Visitors</h3>\n<ul>\n  <li>\n    <p>Microphones: are installed in all Reception areas.</p>\n  </li>\n  <li>\n    <p>Hearing dogs: hearing dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"contact-us\">Contact Us</h3>\n<p>If you need to visit us or use our services and feel that they may be inaccessible to you, please contact Deputy Security Manager, or Office Manager, who will find an alternative way of providing access for you.</p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n<p>British Embassy Official Holidays in 2016:</p>\n\n<ul>\n  <li>\n    <p>Friday, 1 January: New Year’s Day (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 8 February: Chinese New Year (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 9 March: Nyepi (Indonesian Holiday) </p>\n  </li>\n  <li>\n    <p>Friday, 25 March: Good Friday (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 28 March: Easter Monday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 6 May: Isra Miraj (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 30 May: Spring Bank Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 31 May: Queen’s Birthday Privilege Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 6 July: Eid Idul-Fitri (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Thursday, 7 July: Eid Idul-Fitri in lieu of 18 July (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 17 August: Independence Day (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 12 September: Eid Idul-Adha (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 26 December: Christmas Holiday (Indonesian and UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 27 December: In lieu of Boxing Day (UK Holiday)</p>\n  </li>\n</ul>\n</div>",
+              "type": "Consulate"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "The British Embassy Jakarta\r\nJl Patra Kuningan Raya Blok L5-6\r\nJakarta",
+                "postal-code": "12950",
+                "locality": "",
+                "region": "",
+                "country-name": "Indonesia"
+              },
+              "label": {
+                "value": "The British Embassy Jakarta\r\nJl Patra Kuningan Raya Blok L5-6\r\nJakarta\n 12950\nIndonesia"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "(+62) (21) 2356 5200"
+              },
+              {
+                "label": "Fax",
+                "number": "(+62) (21) 3983 5538"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Transferring funds for prisoners / for financial assistance service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Births and Deaths registration service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Notarial services",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Issue certificate of no impediment",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Citizenship Ceremony service",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Legalisation Service",
+                "type": "Other Services"
+              },
+              {
+                "title": "Overseas Passports Service",
+                "type": "Other Services"
+              },
+              {
+                "title": "Registrations of Marriage and Civil Partnerships",
+                "type": "Documentary Services"
+              }
+            ]
+          },
+          {
+            "title": "Consular services (Bali)",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:54.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-jakarta/office/consular-services-bali",
+            "details": {
+              "email": "Consulate.Bali@fco.gov.uk",
+              "description": "Opening hours (local time): \r\nMonday, Wednesday and Friday: 08:30 - 12.00",
+              "contact_form_url": "",
+              "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"disabled-access\">Disabled access</h2>\n<p>The Foreign &amp; Commonwealth Office and the British Embassy in Jakarta are keen to ensure that their buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes, however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled staff and visitors, we have set out below details of disabled access at the Embassy. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General Physical Access</h3>\n<p>There is a disabled access through the pedestrian entrance.  If you require assistance, please telephone us in advance of your visit so that we can ensure that we are able to provide access for you and allow your vehicle access to the Embassy Compound (Please call +62 (021) 2356 5200 and ask for the Deputy Security Manager).  Wheelchair access to the Embassy is via the front door.  The Embassy only has the facility to allow a wheelchair with a maximum width of 750mm.  </p>\n\n<ul>\n  <li>\n    <p>Steps and Staircases: all internal staircases have hand rails on both sides.</p>\n  </li>\n  <li>\n    <p>Lifts: There is a lift to all floors of the Embassy.</p>\n  </li>\n  <li>\n    <p>Toilets: a disabled toilet is located on the ground floor of the Embassy in Management Section.</p>\n  </li>\n  <li>\n    <p>Parking: a disabled parking spot is available by arrangement.</p>\n  </li>\n  <li>\n    <p>Floor coverings: floor coverings are safe and even.</p>\n  </li>\n  <li>\n    <p>Doors: if necessary, the staff can assist in opening doors.</p>\n  </li>\n  <li>\n    <p>Lighting: adequate throughout.</p>\n  </li>\n  <li>\n    <p>Telephones: accessible to wheelchair users.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for Visually Impaired Visitors</h3>\n<ul>\n  <li>\n    <p>Signs: generally clear and easy to read.</p>\n  </li>\n  <li>\n    <p>Guide dogs: guide dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for Deaf/Hard of Hearing Visitors</h3>\n<ul>\n  <li>\n    <p>Microphones: are installed in all Reception areas.</p>\n  </li>\n  <li>\n    <p>Hearing dogs: hearing dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"contact-us\">Contact Us</h3>\n<p>If you need to visit us or use our services and feel that they may be inaccessible to you, please contact Deputy Security Manager, or Office Manager, who will find an alternative way of providing access for you.</p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n<p>British Embassy Official Holidays in 2016:</p>\n\n<ul>\n  <li>\n    <p>Friday, 1 January: New Year’s Day (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 8 February: Chinese New Year (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 9 March: Nyepi (Indonesian Holiday) </p>\n  </li>\n  <li>\n    <p>Friday, 25 March: Good Friday (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 28 March: Easter Monday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 6 May: Isra Miraj (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 30 May: Spring Bank Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 31 May: Queen’s Birthday Privilege Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 6 July: Eid Idul-Fitri (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Thursday, 7 July: Eid Idul-Fitri in lieu of 18 July (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 17 August: Independence Day (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 12 September: Eid Idul-Adha (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 26 December: Christmas Holiday (Indonesian and UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 27 December: In lieu of Boxing Day (UK Holiday)</p>\n  </li>\n</ul>\n</div>",
+              "type": "Honorary Consul"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "British Consulate Bali \r\nJl. Tirta Nadi 2 No. 20 \r\nSanur \r\nBali",
+                "postal-code": "",
+                "locality": "",
+                "region": "",
+                "country-name": "Indonesia"
+              },
+              "label": {
+                "value": "British Consulate Bali \r\nJl. Tirta Nadi 2 No. 20 \r\nSanur \r\nBali\n \nIndonesia"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Telephone",
+                "number": "(+62) (21) 2356 5200 "
+              },
+              {
+                "label": "Fax",
+                "number": "(+62) (21) 3983 5538"
+              }
+            ],
+            "services": [
+              {
+                "title": "Emergency Travel Documents service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Transferring funds for prisoners / for financial assistance service",
+                "type": "Assistance Services"
+              },
+              {
+                "title": "Issue certificate of no impediment",
+                "type": "Documentary Services"
+              },
+              {
+                "title": "Registrations of Marriage and Civil Partnerships",
+                "type": "Documentary Services"
+              }
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-climate-change-unit",
+      "title": "UK Climate Change Unit ",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-03-20T14:27:08.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-climate-change-unit",
+      "details": {
+        "slug": "uk-climate-change-unit"
+      },
+      "analytics_identifier": "WO316",
+      "offices": {
+        "main": {
+          "title": "UK Climate Change Unit (UKCCU)",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:55.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-climate-change-unit/office/uk-climate-change-unit-ukccu",
+          "details": {
+            "email": "UKCCU.Indonesia@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "British Embassy, \r\nJl. Patra Kuningan Raya Blok L 5 - 6",
+              "postal-code": "12950",
+              "locality": "Jakarta",
+              "region": "",
+              "country-name": "Indonesia"
+            },
+            "label": {
+              "value": "British Embassy, \r\nJl. Patra Kuningan Raya Blok L 5 - 6\nJakarta\n 12950\nIndonesia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Tel:",
+              "number": " (+62) (21) 2356 5200"
+            },
+            {
+              "label": "Fax:",
+              "number": " (+62) (21) 2356 5350"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for International Development",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-international-development",
+          "details": {
+            "acronym": "DFID"
+          }
+        },
+        {
+          "title": "Department of Energy & Climate Change",
+          "web_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+          "details": {
+            "acronym": "DECC"
+          }
+        },
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-indonesia",
+      "title": "UK Trade & Investment Indonesia",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-24T16:03:00.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-indonesia",
+      "details": {
+        "slug": "uk-trade-investment-indonesia"
+      },
+      "analytics_identifier": "WO323",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Indonesia",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:55.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-indonesia/office/uk-trade-investment-indonesia",
+          "details": {
+            "email": "uktijakarta.enquiries@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "British Embassy",
+              "street-address": "Jl. Patra Kuningan Raya Blok L 5-6\r\n",
+              "postal-code": "12950",
+              "locality": "Jakarta",
+              "region": "",
+              "country-name": "Indonesia"
+            },
+            "label": {
+              "value": "British Embassy\nJl. Patra Kuningan Raya Blok L 5-6\r\nJakarta\n 12950\nIndonesia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Switchboard",
+              "number": "+62 (0)21 2356 5200"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-consulate-bali",
+      "title": "British Consulate Bali ",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-10-08T05:00:37.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-consulate-bali",
+      "details": {
+        "slug": "british-consulate-bali"
+      },
+      "analytics_identifier": "WO439",
+      "offices": {
+        "main": {
+          "title": "British Consulate Bali ",
+          "format": "World Office",
+          "updated_at": "2015-10-08T05:02:21.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-consulate-bali/office/british-consulate-bali",
+          "details": {
+            "email": "Consulate.Bali@fco.gov.uk",
+            "description": "Opening hours (local time): \r\nMonday, Wednesday and Friday: 08:30 - 12.00",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"disabled-access\">Disabled access</h2>\n<p>The Foreign &amp; Commonwealth Office and the British Embassy in Jakarta are keen to ensure that their buildings and services are fully accessible to disabled members of the public. Wherever possible, we have made our buildings and services accessible. Sometimes, however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. To assist disabled staff and visitors, we have set out below details of disabled access at the Embassy. We hope this information is helpful.</p>\n\n<h3 id=\"general-physical-access\">General Physical Access</h3>\n<p>There is a disabled access through the pedestrian entrance.  If you require assistance, please telephone us in advance of your visit so that we can ensure that we are able to provide access for you and allow your vehicle access to the Embassy Compound (Please call +62 (021) 2356 5200 and ask for the Deputy Security Manager).  Wheelchair access to the Embassy is via the front door.  The Embassy only has the facility to allow a wheelchair with a maximum width of 750mm.  </p>\n\n<ul>\n  <li>\n    <p>Steps and Staircases: all internal staircases have hand rails on both sides.</p>\n  </li>\n  <li>\n    <p>Lifts: There is a lift to all floors of the Embassy.</p>\n  </li>\n  <li>\n    <p>Toilets: a disabled toilet is located on the ground floor of the Embassy in Management Section.</p>\n  </li>\n  <li>\n    <p>Parking: a disabled parking spot is available by arrangement.</p>\n  </li>\n  <li>\n    <p>Floor coverings: floor coverings are safe and even.</p>\n  </li>\n  <li>\n    <p>Doors: if necessary, the staff can assist in opening doors.</p>\n  </li>\n  <li>\n    <p>Lighting: adequate throughout.</p>\n  </li>\n  <li>\n    <p>Telephones: accessible to wheelchair users.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-visually-impaired-visitors\">Access for Visually Impaired Visitors</h3>\n<ul>\n  <li>\n    <p>Signs: generally clear and easy to read.</p>\n  </li>\n  <li>\n    <p>Guide dogs: guide dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"access-for-deafhard-of-hearing-visitors\">Access for Deaf/Hard of Hearing Visitors</h3>\n<ul>\n  <li>\n    <p>Microphones: are installed in all Reception areas.</p>\n  </li>\n  <li>\n    <p>Hearing dogs: hearing dogs are welcome.</p>\n  </li>\n</ul>\n\n<h3 id=\"contact-us\">Contact Us</h3>\n<p>If you need to visit us or use our services and feel that they may be inaccessible to you, please contact Deputy Security Manager, or Office Manager, who will find an alternative way of providing access for you.</p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n<p>British Embassy Official Holidays in 2015:</p>\n\n<ul>\n  <li>\n    <p>Thursday, 1 January: New Year’s Day (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Thursday, 19 January: Chinese New Year (Indonesian Holiday) </p>\n  </li>\n  <li>\n    <p>Friday, 3 April: Good Friday (Indonesian &amp; UK holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 6 April: Easter Monday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 1 May: Labour Day (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 25 May: May Spring Bank (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Tuesday, 26 May: Queen’s Birthday Privilege Holiday (UK Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 17 July: Eid Idul-Fitri (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 20 July: Eid Idul-Fitri in lieu of 18 July (Indonesian holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 17 August: Independence Day (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Thursday, 24 September: Eid Idul-Adha (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Wednesday, 14 October: Islamic New Year (Indonesian Holiday)</p>\n  </li>\n  <li>\n    <p>Friday, 25 December: Christmas Holiday (Indonesian and UK Holiday)</p>\n  </li>\n  <li>\n    <p>Monday, 28 December: In lieu of Boxing Day (UK Holiday)</p>\n  </li>\n</ul>\n</div>",
+            "type": "Consulate"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Jl. Tirta Nadi 2 No. 20 \r\nSanur",
+              "postal-code": "",
+              "locality": "Bali",
+              "region": "",
+              "country-name": "Indonesia"
+            },
+            "label": {
+              "value": "Jl. Tirta Nadi 2 No. 20 \r\nSanur\nBali\n \nIndonesia"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "(+62) (21) 2356 5200"
+            },
+            {
+              "label": "Fax",
+              "number": "(+62) (21) 3983 5538"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 4,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/indonesia/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

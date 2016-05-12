@@ -1,0 +1,222 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-high-commission-belmopan",
+      "title": "British High Commission Belmopan",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-01-08T21:01:36.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-high-commission-belmopan",
+      "details": {
+        "slug": "british-high-commission-belmopan"
+      },
+      "analytics_identifier": "WO85",
+      "offices": {
+        "main": {
+          "title": "British High Commission Belmopan",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-high-commission-belmopan/office/british-high-commission-belize",
+          "details": {
+            "email": "brithicom@btl.net",
+            "description": "Monday to Thursday, 8:00am to noon and 1:00pm to 4:00pm\r\nFri: 0800-1400\r\n\r\nConsular section opening hours:\r\nMonday to Thursday: 09:00 to 11:00\r\nFridays: Closed",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><p>The British High Commission offices will be closed on the following days in 2016</p>\n\n<ul>\n  <li>1 January</li>\n  <li>7 March </li>\n  <li>25 March </li>\n  <li>28 March</li>\n  <li>2 May</li>\n  <li>3 May</li>\n  <li>23 May\t\t\t\t\t</li>\n  <li>29 August</li>\n  <li>9 September</li>\n  <li>21 September</li>\n  <li>10 October</li>\n  <li>21 November\t\t\t\t\t</li>\n  <li>26 December</li>\n  <li>27 December</li>\n</ul>\n</div>",
+            "type": "High Commission"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "North Ring Road/Melhado Parade\r\n(Entrance via North Ring Road)\r\nPO Box 91",
+              "postal-code": "",
+              "locality": "Belmopan",
+              "region": "",
+              "country-name": "Belize"
+            },
+            "label": {
+              "value": "North Ring Road/Melhado Parade\r\n(Entrance via North Ring Road)\r\nPO Box 91\nBelmopan\nBelize"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries",
+              "number": "+501 822 2146/2147/2717/2981 "
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/dfid-caribbean",
+      "title": "DFID Caribbean",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-04-11T11:35:15.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/dfid-caribbean",
+      "details": {
+        "slug": "dfid-caribbean"
+      },
+      "analytics_identifier": "WO306",
+      "offices": {
+        "main": {
+          "title": "DFID Caribbean",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/dfid-caribbean/office/dfid-caribbean",
+          "details": {
+            "email": "enquiry@dfid.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "British High Commission\r\nLower Collymore Rock",
+              "postal-code": "BB11000",
+              "locality": "St. Michael",
+              "region": "",
+              "country-name": "Barbados"
+            },
+            "label": {
+              "value": "British High Commission\r\nLower Collymore Rock\nSt. Michael\nBB11000\nBarbados"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone:",
+              "number": "+1 246 430 7900 "
+            },
+            {
+              "label": "Fax :",
+              "number": "+1 246 430 7959"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+          {
+            "title": "DFID Caribbean (Jamaica)",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:54.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/dfid-caribbean/office/dfid-caribbean-jamaica",
+            "details": {
+              "email": "enquiry@dfid.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "British High Commission",
+                "street-address": "PO Box 575\r\n28 Trafalgar Road",
+                "postal-code": "",
+                "locality": "Kingston 10",
+                "region": "",
+                "country-name": "Jamaica"
+              },
+              "label": {
+                "value": "British High Commission\nPO Box 575\r\n28 Trafalgar Road\nKingston 10\nJamaica"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Tel:",
+                "number": "+ 1 876 936 0700 "
+              },
+              {
+                "label": "Fax:",
+                "number": "+ 1 876 733 5336"
+              }
+            ],
+            "services": [
+
+            ]
+          },
+          {
+            "title": "DFID Caribbean (Guyana)",
+            "format": "World Office",
+            "updated_at": "2013-03-25T10:37:55.000+00:00",
+            "web_url": "https://www.gov.uk/government/world/organisations/dfid-caribbean/office/dfid-caribbean-guyana",
+            "details": {
+              "email": "enquiry@dfid.gov.uk",
+              "description": "",
+              "contact_form_url": "",
+              "access_and_opening_times": "",
+              "type": "Other"
+            },
+            "address": {
+              "adr": {
+                "fn": "",
+                "street-address": "British High Commission \r\n44 Main Street Street",
+                "postal-code": "",
+                "locality": "Georgetown ",
+                "region": "",
+                "country-name": "Guyana"
+              },
+              "label": {
+                "value": "British High Commission \r\n44 Main Street Street\nGeorgetown \nGuyana"
+              }
+            },
+            "contact_numbers": [
+              {
+                "label": "Tel: ",
+                "number": "+592 226 5883/4"
+              },
+              {
+                "label": "Fax:",
+                "number": "+592 226-3360"
+              }
+            ],
+            "services": [
+
+            ]
+          }
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Department for International Development",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-international-development",
+          "details": {
+            "acronym": "DFID"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/belize/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-pyonyang",
+      "title": "British Embassy Pyongyang",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-01-28T03:51:58.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-pyonyang",
+      "details": {
+        "slug": "british-embassy-pyonyang"
+      },
+      "analytics_identifier": "WO219",
+      "offices": {
+        "main": {
+          "title": " British Embassy Pyongyang",
+          "format": "World Office",
+          "updated_at": "2013-03-25T10:37:54.000+00:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-pyonyang/office/british-embassy-pyongyang",
+          "details": {
+            "email": "Pyongyang.enquiries@fco.gov.uk",
+            "description": "Opening hours: \r\nMonday to Thursday - 9.00am to 6.00pm (local time); \r\nFriday - 9.00am to 1.00pm (local time)",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"disabled-access\">Disabled access</h2>\n\n<p>The British Embassy in Democratic People’s Republic of Korea is keen to ensure that its buildings and services are fully accessible to disabled members of the public.</p>\n\n<p>Wherever possible, we have made our buildings and services accessible. Sometimes, however, this is not possible due to security or other restrictions. In these situations we will endeavour to provide a service or access to a building in an alternative way to ensure equality of access for disabled people. Please contact us if you require disabled access and we will make alternative arrangements.</p>\n\n<h2 id=\"public-holidays\">Public holidays</h2>\n\n<p>British Embassy in Pyongyang is closed on some UK and DPRK Public Holidays. Please see the 2015 Holiday List below.</p>\n\n<ul>\n  <li>Thursday 1 January - New Year </li>\n  <li>TBC January/February – Lunar Holiday</li>\n  <li>TBC January/February – Lunar Full Moon Holiday</li>\n  <li>Monday 16 February - Kim Jong Il’s Birthday </li>\n  <li>Friday 3 April – Good Friday </li>\n  <li>Monday 6 April - Easter Monday</li>\n  <li>Wednesday 15 April – Kim Il Sung’s Birthday</li>\n  <li>Friday 1 May - May Day Holiday</li>\n  <li>Friday 22 May – Queen’s Birthday</li>\n  <li>Monday 25 May – Spring Bank Holiday</li>\n  <li>Monday 31August – Summer Bank Holiday </li>\n  <li>Wednesday 9 September – DPRK Foundation Day</li>\n  <li>Friday 25 December – Christmas Day</li>\n  <li>Monday 28 December – Boxing Day</li>\n</ul>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "Munsu-Dong Compound,, \r\nPyongyang,\r\nDemocratic People's Republic of Korea",
+              "postal-code": "",
+              "locality": "Pyongyang",
+              "region": "",
+              "country-name": "North Korea"
+            },
+            "label": {
+              "value": "Munsu-Dong Compound,, \r\nPyongyang,\r\nDemocratic People's Republic of Korea\nPyongyang\nNorth Korea"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "00 (850) 2 381 7982"
+            },
+            {
+              "label": "Telephone (out-of-hours emergency)",
+              "number": "00 (850) 191 250 7980 (from outside DPRK)"
+            },
+            {
+              "label": "Fax",
+              "number": "(+850) 2 381 7985"
+            }
+          ],
+          "services": [
+            {
+              "title": "Transferring funds for prisoners / for financial assistance service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Overseas Passports Service",
+              "type": "Other Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 1,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/north-korea/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

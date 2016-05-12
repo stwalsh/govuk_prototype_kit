@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-ashgabat",
+      "title": "British Embassy Ashgabat",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-03-13T07:09:26.000+00:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-ashgabat",
+      "details": {
+        "slug": "british-embassy-ashgabat"
+      },
+      "analytics_identifier": "WO83",
+      "offices": {
+        "main": {
+          "title": "British Embassy Ashgabat",
+          "format": "World Office",
+          "updated_at": "2013-07-30T07:45:54.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-ashgabat/office/british-embassy-ashgabat",
+          "details": {
+            "email": "Consular enquiries: consular.ashgabat@fco.gov.uk; Visa enquiries: https://ukvi-international.faq-help.com/",
+            "description": "If you are having difficulty with the main telephone number for the Embassy, please try any of the following: +993 12 363463, 363464, 363466, 363498 or 363474; or +99365 7102033; or call the FCO Switchboard in London on +44 (0)20 7008 1500 for assistance.",
+            "contact_form_url": "",
+            "access_and_opening_times": "<div class=\"govspeak\"><h2 id=\"our-opening-hours\">Our Opening Hours</h2>\n<p>Monday to Thursday 08.30-17.00\nFriday 08.30-15.30\nLunch 12.30-13.30</p>\n\n<h2 id=\"local-holidays\">2016 local holidays</h2>\n\n<p>Friday, 1 January - New Year’s Day </p>\n\n<p>Friday, 19 February - National Flag Day</p>\n\n<p>Monday, 21 March - Novruz Bayram </p>\n\n<p>Friday, 25 March - Good Friday</p>\n\n<p>Monday, 28 March - Easter Monday</p>\n\n<p>Monday, 2 May - May bank holiday</p>\n\n<p>Monday, 30 May - Spring Bank Holiday</p>\n\n<p>Monday, 29 August - Summer Bank Holiday</p>\n\n<p>TBC, September - Kurban Bayram</p>\n\n<p>Thursday, 27 October - Independence Day</p>\n\n<p>Friday, 28 October - Independence Day</p>\n\n<p>Monday, 12 December - Neutrality Day</p>\n\n<p>Monday, 26 December - Boxing Day</p>\n\n<p>Tuesday, 27 December - In lieu of Christmas Day </p>\n</div>",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "3rd Floor Office Building \r\nFour Points Ak Altyn Hotel \r\n",
+              "postal-code": "744001",
+              "locality": "Ashgabat",
+              "region": "Ashgabat",
+              "country-name": "Turkmenistan"
+            },
+            "label": {
+              "value": "3rd Floor Office Building \r\nFour Points Ak Altyn Hotel \r\nAshgabat\nAshgabat\n744001\nTurkmenistan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Fax",
+              "number": "+99 312 363 465"
+            },
+            {
+              "label": "Telephone",
+              "number": "+993 12 36 34 62/64 or +99365 71 20 33"
+            }
+          ],
+          "services": [
+            {
+              "title": "Emergency Travel Documents service",
+              "type": "Assistance Services"
+            },
+            {
+              "title": "Registrations of Marriage and Civil Partnerships",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Births and Deaths registration service",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Notarial services",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Issue certificate of no impediment",
+              "type": "Documentary Services"
+            },
+            {
+              "title": "Lost or Stolen Passports",
+              "type": "Assistance Services"
+            }
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/ukti-turkmenistan",
+      "title": "UK Trade & Investment Turkmenistan",
+      "format": "Worldwide Organisation",
+      "updated_at": "2013-07-26T12:02:41.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/ukti-turkmenistan",
+      "details": {
+        "slug": "ukti-turkmenistan"
+      },
+      "analytics_identifier": "WO359",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Turkmenistan",
+          "format": "World Office",
+          "updated_at": "2013-07-26T12:00:26.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/ukti-turkmenistan/office/uk-trade-investment-turkmenistan",
+          "details": {
+            "email": "Arslan.Penjiyev@mobile.ukti.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "British Embassy Ashgabat\r\n3rd Floor Office Building \r\nFour Points Ak Altyn Hotel",
+              "postal-code": "744001",
+              "locality": "Ashgabat",
+              "region": "",
+              "country-name": "Turkmenistan"
+            },
+            "label": {
+              "value": "British Embassy Ashgabat\r\n3rd Floor Office Building \r\nFour Points Ak Altyn Hotel\nAshgabat\n744001\nTurkmenistan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General enquiries",
+              "number": "+99 312 363 462 "
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/turkmenistan/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}

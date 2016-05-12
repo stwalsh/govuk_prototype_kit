@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/british-embassy-kabul",
+      "title": "British Embassy Kabul",
+      "format": "Worldwide Organisation",
+      "updated_at": "2014-04-11T09:58:21.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-kabul",
+      "details": {
+        "slug": "british-embassy-kabul"
+      },
+      "analytics_identifier": "WO101",
+      "offices": {
+        "main": {
+          "title": "British Embassy Kabul",
+          "format": "World Office",
+          "updated_at": "2014-09-23T11:12:12.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/british-embassy-kabul/office/british-embassy-kabul",
+          "details": {
+            "email": "britishembassy.kabul@fco.gov.uk",
+            "description": "8.30 am to 4.30 pm ( Sunday to Thursday) \r\nPassport applications are only accepted on Mondays and Tuesdays (8.30 am  to 11.30 am)\r\nConsular Email: Cons.Kabul@fco.gov.uk ",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Embassy"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "15th Street, Roundabout Wazir Akbar Khan\r\nPO Box 334\r\n",
+              "postal-code": "",
+              "locality": "Kabul",
+              "region": "",
+              "country-name": "Afghanistan"
+            },
+            "label": {
+              "value": "15th Street, Roundabout Wazir Akbar Khan\r\nPO Box 334\r\nKabul\nAfghanistan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "General telephone",
+              "number": "+93 (0) 700 102 000"
+            },
+            {
+              "label": "Management fax",
+              "number": "+93 (0) 700 102 250"
+            },
+            {
+              "label": "Political section fax",
+              "number": "+93 (0) 700 102 274"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "Foreign & Commonwealth Office",
+          "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+          "details": {
+            "acronym": "FCO"
+          }
+        },
+        {
+          "title": "Department for International Development",
+          "web_url": "https://www.gov.uk/government/organisations/department-for-international-development",
+          "details": {
+            "acronym": "DFID"
+          }
+        },
+        {
+          "title": "Ministry of Defence",
+          "web_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+          "details": {
+            "acronym": "MOD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/api/worldwide-organisations/uk-trade-investment-afghanistan",
+      "title": "UK Trade & Investment Afghanistan",
+      "format": "Worldwide Organisation",
+      "updated_at": "2015-09-02T08:49:58.000+01:00",
+      "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-afghanistan",
+      "details": {
+        "slug": "uk-trade-investment-afghanistan"
+      },
+      "analytics_identifier": "WO397",
+      "offices": {
+        "main": {
+          "title": "UK Trade & Investment Afghanistan",
+          "format": "World Office",
+          "updated_at": "2015-09-02T09:05:22.000+01:00",
+          "web_url": "https://www.gov.uk/government/world/organisations/uk-trade-investment-afghanistan/office/uk-trade-investment-afghanistan",
+          "details": {
+            "email": "Paul.Grey@fco.gov.uk",
+            "description": "",
+            "contact_form_url": "",
+            "access_and_opening_times": "",
+            "type": "Other"
+          },
+          "address": {
+            "adr": {
+              "fn": "",
+              "street-address": "15th Street, Roundabout Wazir Akbar Khan\r\nPO Box 334",
+              "postal-code": "",
+              "locality": "Kabul",
+              "region": "",
+              "country-name": "Afghanistan"
+            },
+            "label": {
+              "value": "15th Street, Roundabout Wazir Akbar Khan\r\nPO Box 334\nKabul\nAfghanistan"
+            }
+          },
+          "contact_numbers": [
+            {
+              "label": "Telephone",
+              "number": "+971 4309 4310 or + 93 (0) 70010  2292"
+            }
+          ],
+          "services": [
+
+          ]
+        },
+        "other": [
+
+        ]
+      },
+      "sponsors": [
+        {
+          "title": "UK Trade & Investment",
+          "web_url": "https://www.gov.uk/government/organisations/uk-trade-investment",
+          "details": {
+            "acronym": "UKTI"
+          }
+        }
+      ]
+    }
+  ],
+  "current_page": 1,
+  "total": 2,
+  "pages": 1,
+  "page_size": 20,
+  "start_index": 1,
+  "_response_info": {
+    "status": "ok",
+    "links": [
+      {
+        "href": "https://www.gov.uk/api/world-locations/afghanistan/organisations?page=1",
+        "rel": "self"
+      }
+    ]
+  }
+}
